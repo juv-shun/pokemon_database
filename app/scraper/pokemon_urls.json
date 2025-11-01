@@ -1,0 +1,5992 @@
+[
+    {
+        "dex_no": 1,
+        "pokemon_name": "フシギダネ",
+        "url": "https://yakkun.com/sv/zukan/n1"
+    },
+    {
+        "dex_no": 2,
+        "pokemon_name": "フシギソウ",
+        "url": "https://yakkun.com/sv/zukan/n2"
+    },
+    {
+        "dex_no": 3,
+        "pokemon_name": "フシギバナ",
+        "url": "https://yakkun.com/sv/zukan/n3"
+    },
+    {
+        "dex_no": 3,
+        "pokemon_name": "メガフシギバナ",
+        "url": "https://yakkun.com/sv/zukan/n3m"
+    },
+    {
+        "dex_no": 4,
+        "pokemon_name": "ヒトカゲ",
+        "url": "https://yakkun.com/sv/zukan/n4"
+    },
+    {
+        "dex_no": 5,
+        "pokemon_name": "リザード",
+        "url": "https://yakkun.com/sv/zukan/n5"
+    },
+    {
+        "dex_no": 6,
+        "pokemon_name": "リザードン",
+        "url": "https://yakkun.com/sv/zukan/n6"
+    },
+    {
+        "dex_no": 6,
+        "pokemon_name": "メガリザードンX",
+        "url": "https://yakkun.com/sv/zukan/n6x"
+    },
+    {
+        "dex_no": 6,
+        "pokemon_name": "メガリザードンY",
+        "url": "https://yakkun.com/sv/zukan/n6y"
+    },
+    {
+        "dex_no": 7,
+        "pokemon_name": "ゼニガメ",
+        "url": "https://yakkun.com/sv/zukan/n7"
+    },
+    {
+        "dex_no": 8,
+        "pokemon_name": "カメール",
+        "url": "https://yakkun.com/sv/zukan/n8"
+    },
+    {
+        "dex_no": 9,
+        "pokemon_name": "カメックス",
+        "url": "https://yakkun.com/sv/zukan/n9"
+    },
+    {
+        "dex_no": 9,
+        "pokemon_name": "メガカメックス",
+        "url": "https://yakkun.com/sv/zukan/n9m"
+    },
+    {
+        "dex_no": 10,
+        "pokemon_name": "キャタピー",
+        "url": "https://yakkun.com/sv/zukan/n10"
+    },
+    {
+        "dex_no": 11,
+        "pokemon_name": "トランセル",
+        "url": "https://yakkun.com/sv/zukan/n11"
+    },
+    {
+        "dex_no": 12,
+        "pokemon_name": "バタフリー",
+        "url": "https://yakkun.com/sv/zukan/n12"
+    },
+    {
+        "dex_no": 13,
+        "pokemon_name": "ビードル",
+        "url": "https://yakkun.com/sv/zukan/n13"
+    },
+    {
+        "dex_no": 14,
+        "pokemon_name": "コクーン",
+        "url": "https://yakkun.com/sv/zukan/n14"
+    },
+    {
+        "dex_no": 15,
+        "pokemon_name": "スピアー",
+        "url": "https://yakkun.com/sv/zukan/n15"
+    },
+    {
+        "dex_no": 15,
+        "pokemon_name": "メガスピアー",
+        "url": "https://yakkun.com/sv/zukan/n15m"
+    },
+    {
+        "dex_no": 16,
+        "pokemon_name": "ポッポ",
+        "url": "https://yakkun.com/sv/zukan/n16"
+    },
+    {
+        "dex_no": 17,
+        "pokemon_name": "ピジョン",
+        "url": "https://yakkun.com/sv/zukan/n17"
+    },
+    {
+        "dex_no": 18,
+        "pokemon_name": "ピジョット",
+        "url": "https://yakkun.com/sv/zukan/n18"
+    },
+    {
+        "dex_no": 18,
+        "pokemon_name": "メガピジョット",
+        "url": "https://yakkun.com/sv/zukan/n18m"
+    },
+    {
+        "dex_no": 19,
+        "pokemon_name": "コラッタ",
+        "url": "https://yakkun.com/sv/zukan/n19"
+    },
+    {
+        "dex_no": 19,
+        "pokemon_name": "コラッタ(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n19a"
+    },
+    {
+        "dex_no": 20,
+        "pokemon_name": "ラッタ",
+        "url": "https://yakkun.com/sv/zukan/n20"
+    },
+    {
+        "dex_no": 20,
+        "pokemon_name": "ラッタ(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n20a"
+    },
+    {
+        "dex_no": 21,
+        "pokemon_name": "オニスズメ",
+        "url": "https://yakkun.com/sv/zukan/n21"
+    },
+    {
+        "dex_no": 22,
+        "pokemon_name": "オニドリル",
+        "url": "https://yakkun.com/sv/zukan/n22"
+    },
+    {
+        "dex_no": 23,
+        "pokemon_name": "アーボ",
+        "url": "https://yakkun.com/sv/zukan/n23"
+    },
+    {
+        "dex_no": 24,
+        "pokemon_name": "アーボック",
+        "url": "https://yakkun.com/sv/zukan/n24"
+    },
+    {
+        "dex_no": 25,
+        "pokemon_name": "ピカチュウ",
+        "url": "https://yakkun.com/sv/zukan/n25"
+    },
+    {
+        "dex_no": 26,
+        "pokemon_name": "ライチュウ",
+        "url": "https://yakkun.com/sv/zukan/n26"
+    },
+    {
+        "dex_no": 26,
+        "pokemon_name": "ライチュウ(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n26a"
+    },
+    {
+        "dex_no": 27,
+        "pokemon_name": "サンド",
+        "url": "https://yakkun.com/sv/zukan/n27"
+    },
+    {
+        "dex_no": 27,
+        "pokemon_name": "サンド(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n27a"
+    },
+    {
+        "dex_no": 28,
+        "pokemon_name": "サンドパン",
+        "url": "https://yakkun.com/sv/zukan/n28"
+    },
+    {
+        "dex_no": 28,
+        "pokemon_name": "サンドパン(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n28a"
+    },
+    {
+        "dex_no": 29,
+        "pokemon_name": "ニドラン♀",
+        "url": "https://yakkun.com/sv/zukan/n29"
+    },
+    {
+        "dex_no": 30,
+        "pokemon_name": "ニドリーナ",
+        "url": "https://yakkun.com/sv/zukan/n30"
+    },
+    {
+        "dex_no": 31,
+        "pokemon_name": "ニドクイン",
+        "url": "https://yakkun.com/sv/zukan/n31"
+    },
+    {
+        "dex_no": 32,
+        "pokemon_name": "ニドラン♂",
+        "url": "https://yakkun.com/sv/zukan/n32"
+    },
+    {
+        "dex_no": 33,
+        "pokemon_name": "ニドリーノ",
+        "url": "https://yakkun.com/sv/zukan/n33"
+    },
+    {
+        "dex_no": 34,
+        "pokemon_name": "ニドキング",
+        "url": "https://yakkun.com/sv/zukan/n34"
+    },
+    {
+        "dex_no": 35,
+        "pokemon_name": "ピッピ",
+        "url": "https://yakkun.com/sv/zukan/n35"
+    },
+    {
+        "dex_no": 36,
+        "pokemon_name": "ピクシー",
+        "url": "https://yakkun.com/sv/zukan/n36"
+    },
+    {
+        "dex_no": 37,
+        "pokemon_name": "ロコン",
+        "url": "https://yakkun.com/sv/zukan/n37"
+    },
+    {
+        "dex_no": 37,
+        "pokemon_name": "ロコン(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n37a"
+    },
+    {
+        "dex_no": 38,
+        "pokemon_name": "キュウコン",
+        "url": "https://yakkun.com/sv/zukan/n38"
+    },
+    {
+        "dex_no": 38,
+        "pokemon_name": "キュウコン(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n38a"
+    },
+    {
+        "dex_no": 39,
+        "pokemon_name": "プリン",
+        "url": "https://yakkun.com/sv/zukan/n39"
+    },
+    {
+        "dex_no": 40,
+        "pokemon_name": "プクリン",
+        "url": "https://yakkun.com/sv/zukan/n40"
+    },
+    {
+        "dex_no": 41,
+        "pokemon_name": "ズバット",
+        "url": "https://yakkun.com/sv/zukan/n41"
+    },
+    {
+        "dex_no": 42,
+        "pokemon_name": "ゴルバット",
+        "url": "https://yakkun.com/sv/zukan/n42"
+    },
+    {
+        "dex_no": 43,
+        "pokemon_name": "ナゾノクサ",
+        "url": "https://yakkun.com/sv/zukan/n43"
+    },
+    {
+        "dex_no": 44,
+        "pokemon_name": "クサイハナ",
+        "url": "https://yakkun.com/sv/zukan/n44"
+    },
+    {
+        "dex_no": 45,
+        "pokemon_name": "ラフレシア",
+        "url": "https://yakkun.com/sv/zukan/n45"
+    },
+    {
+        "dex_no": 46,
+        "pokemon_name": "パラス",
+        "url": "https://yakkun.com/sv/zukan/n46"
+    },
+    {
+        "dex_no": 47,
+        "pokemon_name": "パラセクト",
+        "url": "https://yakkun.com/sv/zukan/n47"
+    },
+    {
+        "dex_no": 48,
+        "pokemon_name": "コンパン",
+        "url": "https://yakkun.com/sv/zukan/n48"
+    },
+    {
+        "dex_no": 49,
+        "pokemon_name": "モルフォン",
+        "url": "https://yakkun.com/sv/zukan/n49"
+    },
+    {
+        "dex_no": 50,
+        "pokemon_name": "ディグダ",
+        "url": "https://yakkun.com/sv/zukan/n50"
+    },
+    {
+        "dex_no": 50,
+        "pokemon_name": "ディグダ(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n50a"
+    },
+    {
+        "dex_no": 51,
+        "pokemon_name": "ダグトリオ",
+        "url": "https://yakkun.com/sv/zukan/n51"
+    },
+    {
+        "dex_no": 51,
+        "pokemon_name": "ダグトリオ(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n51a"
+    },
+    {
+        "dex_no": 52,
+        "pokemon_name": "ニャース",
+        "url": "https://yakkun.com/sv/zukan/n52"
+    },
+    {
+        "dex_no": 52,
+        "pokemon_name": "ニャース(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n52a"
+    },
+    {
+        "dex_no": 52,
+        "pokemon_name": "ニャース(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n52g"
+    },
+    {
+        "dex_no": 53,
+        "pokemon_name": "ペルシアン",
+        "url": "https://yakkun.com/sv/zukan/n53"
+    },
+    {
+        "dex_no": 53,
+        "pokemon_name": "ペルシアン(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n53a"
+    },
+    {
+        "dex_no": 54,
+        "pokemon_name": "コダック",
+        "url": "https://yakkun.com/sv/zukan/n54"
+    },
+    {
+        "dex_no": 55,
+        "pokemon_name": "ゴルダック",
+        "url": "https://yakkun.com/sv/zukan/n55"
+    },
+    {
+        "dex_no": 56,
+        "pokemon_name": "マンキー",
+        "url": "https://yakkun.com/sv/zukan/n56"
+    },
+    {
+        "dex_no": 57,
+        "pokemon_name": "オコリザル",
+        "url": "https://yakkun.com/sv/zukan/n57"
+    },
+    {
+        "dex_no": 58,
+        "pokemon_name": "ガーディ",
+        "url": "https://yakkun.com/sv/zukan/n58"
+    },
+    {
+        "dex_no": 58,
+        "pokemon_name": "ガーディ(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n58h"
+    },
+    {
+        "dex_no": 59,
+        "pokemon_name": "ウインディ",
+        "url": "https://yakkun.com/sv/zukan/n59"
+    },
+    {
+        "dex_no": 59,
+        "pokemon_name": "ウインディ(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n59h"
+    },
+    {
+        "dex_no": 60,
+        "pokemon_name": "ニョロモ",
+        "url": "https://yakkun.com/sv/zukan/n60"
+    },
+    {
+        "dex_no": 61,
+        "pokemon_name": "ニョロゾ",
+        "url": "https://yakkun.com/sv/zukan/n61"
+    },
+    {
+        "dex_no": 62,
+        "pokemon_name": "ニョロボン",
+        "url": "https://yakkun.com/sv/zukan/n62"
+    },
+    {
+        "dex_no": 63,
+        "pokemon_name": "ケーシィ",
+        "url": "https://yakkun.com/sv/zukan/n63"
+    },
+    {
+        "dex_no": 64,
+        "pokemon_name": "ユンゲラー",
+        "url": "https://yakkun.com/sv/zukan/n64"
+    },
+    {
+        "dex_no": 65,
+        "pokemon_name": "フーディン",
+        "url": "https://yakkun.com/sv/zukan/n65"
+    },
+    {
+        "dex_no": 65,
+        "pokemon_name": "メガフーディン",
+        "url": "https://yakkun.com/sv/zukan/n65m"
+    },
+    {
+        "dex_no": 66,
+        "pokemon_name": "ワンリキー",
+        "url": "https://yakkun.com/sv/zukan/n66"
+    },
+    {
+        "dex_no": 67,
+        "pokemon_name": "ゴーリキー",
+        "url": "https://yakkun.com/sv/zukan/n67"
+    },
+    {
+        "dex_no": 68,
+        "pokemon_name": "カイリキー",
+        "url": "https://yakkun.com/sv/zukan/n68"
+    },
+    {
+        "dex_no": 69,
+        "pokemon_name": "マダツボミ",
+        "url": "https://yakkun.com/sv/zukan/n69"
+    },
+    {
+        "dex_no": 70,
+        "pokemon_name": "ウツドン",
+        "url": "https://yakkun.com/sv/zukan/n70"
+    },
+    {
+        "dex_no": 71,
+        "pokemon_name": "ウツボット",
+        "url": "https://yakkun.com/sv/zukan/n71"
+    },
+    {
+        "dex_no": 72,
+        "pokemon_name": "メノクラゲ",
+        "url": "https://yakkun.com/sv/zukan/n72"
+    },
+    {
+        "dex_no": 73,
+        "pokemon_name": "ドククラゲ",
+        "url": "https://yakkun.com/sv/zukan/n73"
+    },
+    {
+        "dex_no": 74,
+        "pokemon_name": "イシツブテ",
+        "url": "https://yakkun.com/sv/zukan/n74"
+    },
+    {
+        "dex_no": 74,
+        "pokemon_name": "イシツブテ(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n74a"
+    },
+    {
+        "dex_no": 75,
+        "pokemon_name": "ゴローン",
+        "url": "https://yakkun.com/sv/zukan/n75"
+    },
+    {
+        "dex_no": 75,
+        "pokemon_name": "ゴローン(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n75a"
+    },
+    {
+        "dex_no": 76,
+        "pokemon_name": "ゴローニャ",
+        "url": "https://yakkun.com/sv/zukan/n76"
+    },
+    {
+        "dex_no": 76,
+        "pokemon_name": "ゴローニャ(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n76a"
+    },
+    {
+        "dex_no": 77,
+        "pokemon_name": "ポニータ",
+        "url": "https://yakkun.com/sv/zukan/n77"
+    },
+    {
+        "dex_no": 77,
+        "pokemon_name": "ポニータ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n77g"
+    },
+    {
+        "dex_no": 78,
+        "pokemon_name": "ギャロップ",
+        "url": "https://yakkun.com/sv/zukan/n78"
+    },
+    {
+        "dex_no": 78,
+        "pokemon_name": "ギャロップ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n78g"
+    },
+    {
+        "dex_no": 79,
+        "pokemon_name": "ヤドン",
+        "url": "https://yakkun.com/sv/zukan/n79"
+    },
+    {
+        "dex_no": 79,
+        "pokemon_name": "ヤドン(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n79g"
+    },
+    {
+        "dex_no": 80,
+        "pokemon_name": "ヤドラン",
+        "url": "https://yakkun.com/sv/zukan/n80"
+    },
+    {
+        "dex_no": 80,
+        "pokemon_name": "ヤドラン(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n80g"
+    },
+    {
+        "dex_no": 80,
+        "pokemon_name": "メガヤドラン",
+        "url": "https://yakkun.com/sv/zukan/n80m"
+    },
+    {
+        "dex_no": 81,
+        "pokemon_name": "コイル",
+        "url": "https://yakkun.com/sv/zukan/n81"
+    },
+    {
+        "dex_no": 82,
+        "pokemon_name": "レアコイル",
+        "url": "https://yakkun.com/sv/zukan/n82"
+    },
+    {
+        "dex_no": 83,
+        "pokemon_name": "カモネギ",
+        "url": "https://yakkun.com/sv/zukan/n83"
+    },
+    {
+        "dex_no": 83,
+        "pokemon_name": "カモネギ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n83g"
+    },
+    {
+        "dex_no": 84,
+        "pokemon_name": "ドードー",
+        "url": "https://yakkun.com/sv/zukan/n84"
+    },
+    {
+        "dex_no": 85,
+        "pokemon_name": "ドードリオ",
+        "url": "https://yakkun.com/sv/zukan/n85"
+    },
+    {
+        "dex_no": 86,
+        "pokemon_name": "パウワウ",
+        "url": "https://yakkun.com/sv/zukan/n86"
+    },
+    {
+        "dex_no": 87,
+        "pokemon_name": "ジュゴン",
+        "url": "https://yakkun.com/sv/zukan/n87"
+    },
+    {
+        "dex_no": 88,
+        "pokemon_name": "ベトベター",
+        "url": "https://yakkun.com/sv/zukan/n88"
+    },
+    {
+        "dex_no": 88,
+        "pokemon_name": "ベトベター(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n88a"
+    },
+    {
+        "dex_no": 89,
+        "pokemon_name": "ベトベトン",
+        "url": "https://yakkun.com/sv/zukan/n89"
+    },
+    {
+        "dex_no": 89,
+        "pokemon_name": "ベトベトン(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n89a"
+    },
+    {
+        "dex_no": 90,
+        "pokemon_name": "シェルダー",
+        "url": "https://yakkun.com/sv/zukan/n90"
+    },
+    {
+        "dex_no": 91,
+        "pokemon_name": "パルシェン",
+        "url": "https://yakkun.com/sv/zukan/n91"
+    },
+    {
+        "dex_no": 92,
+        "pokemon_name": "ゴース",
+        "url": "https://yakkun.com/sv/zukan/n92"
+    },
+    {
+        "dex_no": 93,
+        "pokemon_name": "ゴースト",
+        "url": "https://yakkun.com/sv/zukan/n93"
+    },
+    {
+        "dex_no": 94,
+        "pokemon_name": "ゲンガー",
+        "url": "https://yakkun.com/sv/zukan/n94"
+    },
+    {
+        "dex_no": 94,
+        "pokemon_name": "メガゲンガー",
+        "url": "https://yakkun.com/sv/zukan/n94m"
+    },
+    {
+        "dex_no": 95,
+        "pokemon_name": "イワーク",
+        "url": "https://yakkun.com/sv/zukan/n95"
+    },
+    {
+        "dex_no": 96,
+        "pokemon_name": "スリープ",
+        "url": "https://yakkun.com/sv/zukan/n96"
+    },
+    {
+        "dex_no": 97,
+        "pokemon_name": "スリーパー",
+        "url": "https://yakkun.com/sv/zukan/n97"
+    },
+    {
+        "dex_no": 98,
+        "pokemon_name": "クラブ",
+        "url": "https://yakkun.com/sv/zukan/n98"
+    },
+    {
+        "dex_no": 99,
+        "pokemon_name": "キングラー",
+        "url": "https://yakkun.com/sv/zukan/n99"
+    },
+    {
+        "dex_no": 100,
+        "pokemon_name": "ビリリダマ",
+        "url": "https://yakkun.com/sv/zukan/n100"
+    },
+    {
+        "dex_no": 100,
+        "pokemon_name": "ビリリダマ(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n100h"
+    },
+    {
+        "dex_no": 101,
+        "pokemon_name": "マルマイン",
+        "url": "https://yakkun.com/sv/zukan/n101"
+    },
+    {
+        "dex_no": 101,
+        "pokemon_name": "マルマイン(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n101h"
+    },
+    {
+        "dex_no": 102,
+        "pokemon_name": "タマタマ",
+        "url": "https://yakkun.com/sv/zukan/n102"
+    },
+    {
+        "dex_no": 103,
+        "pokemon_name": "ナッシー",
+        "url": "https://yakkun.com/sv/zukan/n103"
+    },
+    {
+        "dex_no": 103,
+        "pokemon_name": "ナッシー(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n103a"
+    },
+    {
+        "dex_no": 104,
+        "pokemon_name": "カラカラ",
+        "url": "https://yakkun.com/sv/zukan/n104"
+    },
+    {
+        "dex_no": 105,
+        "pokemon_name": "ガラガラ",
+        "url": "https://yakkun.com/sv/zukan/n105"
+    },
+    {
+        "dex_no": 105,
+        "pokemon_name": "ガラガラ(アローラ)",
+        "url": "https://yakkun.com/sv/zukan/n105a"
+    },
+    {
+        "dex_no": 106,
+        "pokemon_name": "サワムラー",
+        "url": "https://yakkun.com/sv/zukan/n106"
+    },
+    {
+        "dex_no": 107,
+        "pokemon_name": "エビワラー",
+        "url": "https://yakkun.com/sv/zukan/n107"
+    },
+    {
+        "dex_no": 108,
+        "pokemon_name": "ベロリンガ",
+        "url": "https://yakkun.com/sv/zukan/n108"
+    },
+    {
+        "dex_no": 109,
+        "pokemon_name": "ドガース",
+        "url": "https://yakkun.com/sv/zukan/n109"
+    },
+    {
+        "dex_no": 110,
+        "pokemon_name": "マタドガス",
+        "url": "https://yakkun.com/sv/zukan/n110"
+    },
+    {
+        "dex_no": 110,
+        "pokemon_name": "マタドガス(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n110g"
+    },
+    {
+        "dex_no": 111,
+        "pokemon_name": "サイホーン",
+        "url": "https://yakkun.com/sv/zukan/n111"
+    },
+    {
+        "dex_no": 112,
+        "pokemon_name": "サイドン",
+        "url": "https://yakkun.com/sv/zukan/n112"
+    },
+    {
+        "dex_no": 113,
+        "pokemon_name": "ラッキー",
+        "url": "https://yakkun.com/sv/zukan/n113"
+    },
+    {
+        "dex_no": 114,
+        "pokemon_name": "モンジャラ",
+        "url": "https://yakkun.com/sv/zukan/n114"
+    },
+    {
+        "dex_no": 115,
+        "pokemon_name": "ガルーラ",
+        "url": "https://yakkun.com/sv/zukan/n115"
+    },
+    {
+        "dex_no": 115,
+        "pokemon_name": "メガガルーラ",
+        "url": "https://yakkun.com/sv/zukan/n115m"
+    },
+    {
+        "dex_no": 116,
+        "pokemon_name": "タッツー",
+        "url": "https://yakkun.com/sv/zukan/n116"
+    },
+    {
+        "dex_no": 117,
+        "pokemon_name": "シードラ",
+        "url": "https://yakkun.com/sv/zukan/n117"
+    },
+    {
+        "dex_no": 118,
+        "pokemon_name": "トサキント",
+        "url": "https://yakkun.com/sv/zukan/n118"
+    },
+    {
+        "dex_no": 119,
+        "pokemon_name": "アズマオウ",
+        "url": "https://yakkun.com/sv/zukan/n119"
+    },
+    {
+        "dex_no": 120,
+        "pokemon_name": "ヒトデマン",
+        "url": "https://yakkun.com/sv/zukan/n120"
+    },
+    {
+        "dex_no": 121,
+        "pokemon_name": "スターミー",
+        "url": "https://yakkun.com/sv/zukan/n121"
+    },
+    {
+        "dex_no": 122,
+        "pokemon_name": "バリヤード",
+        "url": "https://yakkun.com/sv/zukan/n122"
+    },
+    {
+        "dex_no": 122,
+        "pokemon_name": "バリヤード(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n122g"
+    },
+    {
+        "dex_no": 123,
+        "pokemon_name": "ストライク",
+        "url": "https://yakkun.com/sv/zukan/n123"
+    },
+    {
+        "dex_no": 124,
+        "pokemon_name": "ルージュラ",
+        "url": "https://yakkun.com/sv/zukan/n124"
+    },
+    {
+        "dex_no": 125,
+        "pokemon_name": "エレブー",
+        "url": "https://yakkun.com/sv/zukan/n125"
+    },
+    {
+        "dex_no": 126,
+        "pokemon_name": "ブーバー",
+        "url": "https://yakkun.com/sv/zukan/n126"
+    },
+    {
+        "dex_no": 127,
+        "pokemon_name": "カイロス",
+        "url": "https://yakkun.com/sv/zukan/n127"
+    },
+    {
+        "dex_no": 127,
+        "pokemon_name": "メガカイロス",
+        "url": "https://yakkun.com/sv/zukan/n127m"
+    },
+    {
+        "dex_no": 128,
+        "pokemon_name": "ケンタロス(パルデア単)",
+        "url": "https://yakkun.com/sv/zukan/n128a"
+    },
+    {
+        "dex_no": 128,
+        "pokemon_name": "ケンタロス(パルデア炎)",
+        "url": "https://yakkun.com/sv/zukan/n128b"
+    },
+    {
+        "dex_no": 128,
+        "pokemon_name": "ケンタロス(パルデア水)",
+        "url": "https://yakkun.com/sv/zukan/n128c"
+    },
+    {
+        "dex_no": 128,
+        "pokemon_name": "ケンタロス",
+        "url": "https://yakkun.com/sv/zukan/n128"
+    },
+    {
+        "dex_no": 129,
+        "pokemon_name": "コイキング",
+        "url": "https://yakkun.com/sv/zukan/n129"
+    },
+    {
+        "dex_no": 130,
+        "pokemon_name": "ギャラドス",
+        "url": "https://yakkun.com/sv/zukan/n130"
+    },
+    {
+        "dex_no": 130,
+        "pokemon_name": "メガギャラドス",
+        "url": "https://yakkun.com/sv/zukan/n130m"
+    },
+    {
+        "dex_no": 131,
+        "pokemon_name": "ラプラス",
+        "url": "https://yakkun.com/sv/zukan/n131"
+    },
+    {
+        "dex_no": 132,
+        "pokemon_name": "メタモン",
+        "url": "https://yakkun.com/sv/zukan/n132"
+    },
+    {
+        "dex_no": 133,
+        "pokemon_name": "イーブイ",
+        "url": "https://yakkun.com/sv/zukan/n133"
+    },
+    {
+        "dex_no": 134,
+        "pokemon_name": "シャワーズ",
+        "url": "https://yakkun.com/sv/zukan/n134"
+    },
+    {
+        "dex_no": 135,
+        "pokemon_name": "サンダース",
+        "url": "https://yakkun.com/sv/zukan/n135"
+    },
+    {
+        "dex_no": 136,
+        "pokemon_name": "ブースター",
+        "url": "https://yakkun.com/sv/zukan/n136"
+    },
+    {
+        "dex_no": 137,
+        "pokemon_name": "ポリゴン",
+        "url": "https://yakkun.com/sv/zukan/n137"
+    },
+    {
+        "dex_no": 138,
+        "pokemon_name": "オムナイト",
+        "url": "https://yakkun.com/sv/zukan/n138"
+    },
+    {
+        "dex_no": 139,
+        "pokemon_name": "オムスター",
+        "url": "https://yakkun.com/sv/zukan/n139"
+    },
+    {
+        "dex_no": 140,
+        "pokemon_name": "カブト",
+        "url": "https://yakkun.com/sv/zukan/n140"
+    },
+    {
+        "dex_no": 141,
+        "pokemon_name": "カブトプス",
+        "url": "https://yakkun.com/sv/zukan/n141"
+    },
+    {
+        "dex_no": 142,
+        "pokemon_name": "プテラ",
+        "url": "https://yakkun.com/sv/zukan/n142"
+    },
+    {
+        "dex_no": 142,
+        "pokemon_name": "メガプテラ",
+        "url": "https://yakkun.com/sv/zukan/n142m"
+    },
+    {
+        "dex_no": 143,
+        "pokemon_name": "カビゴン",
+        "url": "https://yakkun.com/sv/zukan/n143"
+    },
+    {
+        "dex_no": 144,
+        "pokemon_name": "フリーザー",
+        "url": "https://yakkun.com/sv/zukan/n144"
+    },
+    {
+        "dex_no": 144,
+        "pokemon_name": "フリーザー(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n144g"
+    },
+    {
+        "dex_no": 145,
+        "pokemon_name": "サンダー",
+        "url": "https://yakkun.com/sv/zukan/n145"
+    },
+    {
+        "dex_no": 145,
+        "pokemon_name": "サンダー(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n145g"
+    },
+    {
+        "dex_no": 146,
+        "pokemon_name": "ファイヤー",
+        "url": "https://yakkun.com/sv/zukan/n146"
+    },
+    {
+        "dex_no": 146,
+        "pokemon_name": "ファイヤー(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n146g"
+    },
+    {
+        "dex_no": 147,
+        "pokemon_name": "ミニリュウ",
+        "url": "https://yakkun.com/sv/zukan/n147"
+    },
+    {
+        "dex_no": 148,
+        "pokemon_name": "ハクリュー",
+        "url": "https://yakkun.com/sv/zukan/n148"
+    },
+    {
+        "dex_no": 149,
+        "pokemon_name": "カイリュー",
+        "url": "https://yakkun.com/sv/zukan/n149"
+    },
+    {
+        "dex_no": 150,
+        "pokemon_name": "ミュウツー",
+        "url": "https://yakkun.com/sv/zukan/n150"
+    },
+    {
+        "dex_no": 150,
+        "pokemon_name": "メガミュウツーX",
+        "url": "https://yakkun.com/sv/zukan/n150x"
+    },
+    {
+        "dex_no": 150,
+        "pokemon_name": "メガミュウツーY",
+        "url": "https://yakkun.com/sv/zukan/n150y"
+    },
+    {
+        "dex_no": 151,
+        "pokemon_name": "ミュウ",
+        "url": "https://yakkun.com/sv/zukan/n151"
+    },
+    {
+        "dex_no": 152,
+        "pokemon_name": "チコリータ",
+        "url": "https://yakkun.com/sv/zukan/n152"
+    },
+    {
+        "dex_no": 153,
+        "pokemon_name": "ベイリーフ",
+        "url": "https://yakkun.com/sv/zukan/n153"
+    },
+    {
+        "dex_no": 154,
+        "pokemon_name": "メガニウム",
+        "url": "https://yakkun.com/sv/zukan/n154"
+    },
+    {
+        "dex_no": 155,
+        "pokemon_name": "ヒノアラシ",
+        "url": "https://yakkun.com/sv/zukan/n155"
+    },
+    {
+        "dex_no": 156,
+        "pokemon_name": "マグマラシ",
+        "url": "https://yakkun.com/sv/zukan/n156"
+    },
+    {
+        "dex_no": 157,
+        "pokemon_name": "バクフーン",
+        "url": "https://yakkun.com/sv/zukan/n157"
+    },
+    {
+        "dex_no": 157,
+        "pokemon_name": "バクフーン(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n157h"
+    },
+    {
+        "dex_no": 158,
+        "pokemon_name": "ワニノコ",
+        "url": "https://yakkun.com/sv/zukan/n158"
+    },
+    {
+        "dex_no": 159,
+        "pokemon_name": "アリゲイツ",
+        "url": "https://yakkun.com/sv/zukan/n159"
+    },
+    {
+        "dex_no": 160,
+        "pokemon_name": "オーダイル",
+        "url": "https://yakkun.com/sv/zukan/n160"
+    },
+    {
+        "dex_no": 161,
+        "pokemon_name": "オタチ",
+        "url": "https://yakkun.com/sv/zukan/n161"
+    },
+    {
+        "dex_no": 162,
+        "pokemon_name": "オオタチ",
+        "url": "https://yakkun.com/sv/zukan/n162"
+    },
+    {
+        "dex_no": 163,
+        "pokemon_name": "ホーホー",
+        "url": "https://yakkun.com/sv/zukan/n163"
+    },
+    {
+        "dex_no": 164,
+        "pokemon_name": "ヨルノズク",
+        "url": "https://yakkun.com/sv/zukan/n164"
+    },
+    {
+        "dex_no": 165,
+        "pokemon_name": "レディバ",
+        "url": "https://yakkun.com/sv/zukan/n165"
+    },
+    {
+        "dex_no": 166,
+        "pokemon_name": "レディアン",
+        "url": "https://yakkun.com/sv/zukan/n166"
+    },
+    {
+        "dex_no": 167,
+        "pokemon_name": "イトマル",
+        "url": "https://yakkun.com/sv/zukan/n167"
+    },
+    {
+        "dex_no": 168,
+        "pokemon_name": "アリアドス",
+        "url": "https://yakkun.com/sv/zukan/n168"
+    },
+    {
+        "dex_no": 169,
+        "pokemon_name": "クロバット",
+        "url": "https://yakkun.com/sv/zukan/n169"
+    },
+    {
+        "dex_no": 170,
+        "pokemon_name": "チョンチー",
+        "url": "https://yakkun.com/sv/zukan/n170"
+    },
+    {
+        "dex_no": 171,
+        "pokemon_name": "ランターン",
+        "url": "https://yakkun.com/sv/zukan/n171"
+    },
+    {
+        "dex_no": 172,
+        "pokemon_name": "ピチュー",
+        "url": "https://yakkun.com/sv/zukan/n172"
+    },
+    {
+        "dex_no": 173,
+        "pokemon_name": "ピィ",
+        "url": "https://yakkun.com/sv/zukan/n173"
+    },
+    {
+        "dex_no": 174,
+        "pokemon_name": "ププリン",
+        "url": "https://yakkun.com/sv/zukan/n174"
+    },
+    {
+        "dex_no": 175,
+        "pokemon_name": "トゲピー",
+        "url": "https://yakkun.com/sv/zukan/n175"
+    },
+    {
+        "dex_no": 176,
+        "pokemon_name": "トゲチック",
+        "url": "https://yakkun.com/sv/zukan/n176"
+    },
+    {
+        "dex_no": 177,
+        "pokemon_name": "ネイティ",
+        "url": "https://yakkun.com/sv/zukan/n177"
+    },
+    {
+        "dex_no": 178,
+        "pokemon_name": "ネイティオ",
+        "url": "https://yakkun.com/sv/zukan/n178"
+    },
+    {
+        "dex_no": 179,
+        "pokemon_name": "メリープ",
+        "url": "https://yakkun.com/sv/zukan/n179"
+    },
+    {
+        "dex_no": 180,
+        "pokemon_name": "モココ",
+        "url": "https://yakkun.com/sv/zukan/n180"
+    },
+    {
+        "dex_no": 181,
+        "pokemon_name": "デンリュウ",
+        "url": "https://yakkun.com/sv/zukan/n181"
+    },
+    {
+        "dex_no": 181,
+        "pokemon_name": "メガデンリュウ",
+        "url": "https://yakkun.com/sv/zukan/n181m"
+    },
+    {
+        "dex_no": 182,
+        "pokemon_name": "キレイハナ",
+        "url": "https://yakkun.com/sv/zukan/n182"
+    },
+    {
+        "dex_no": 183,
+        "pokemon_name": "マリル",
+        "url": "https://yakkun.com/sv/zukan/n183"
+    },
+    {
+        "dex_no": 184,
+        "pokemon_name": "マリルリ",
+        "url": "https://yakkun.com/sv/zukan/n184"
+    },
+    {
+        "dex_no": 185,
+        "pokemon_name": "ウソッキー",
+        "url": "https://yakkun.com/sv/zukan/n185"
+    },
+    {
+        "dex_no": 186,
+        "pokemon_name": "ニョロトノ",
+        "url": "https://yakkun.com/sv/zukan/n186"
+    },
+    {
+        "dex_no": 187,
+        "pokemon_name": "ハネッコ",
+        "url": "https://yakkun.com/sv/zukan/n187"
+    },
+    {
+        "dex_no": 188,
+        "pokemon_name": "ポポッコ",
+        "url": "https://yakkun.com/sv/zukan/n188"
+    },
+    {
+        "dex_no": 189,
+        "pokemon_name": "ワタッコ",
+        "url": "https://yakkun.com/sv/zukan/n189"
+    },
+    {
+        "dex_no": 190,
+        "pokemon_name": "エイパム",
+        "url": "https://yakkun.com/sv/zukan/n190"
+    },
+    {
+        "dex_no": 191,
+        "pokemon_name": "ヒマナッツ",
+        "url": "https://yakkun.com/sv/zukan/n191"
+    },
+    {
+        "dex_no": 192,
+        "pokemon_name": "キマワリ",
+        "url": "https://yakkun.com/sv/zukan/n192"
+    },
+    {
+        "dex_no": 193,
+        "pokemon_name": "ヤンヤンマ",
+        "url": "https://yakkun.com/sv/zukan/n193"
+    },
+    {
+        "dex_no": 194,
+        "pokemon_name": "ウパー(パルデア)",
+        "url": "https://yakkun.com/sv/zukan/n194p"
+    },
+    {
+        "dex_no": 194,
+        "pokemon_name": "ウパー",
+        "url": "https://yakkun.com/sv/zukan/n194"
+    },
+    {
+        "dex_no": 195,
+        "pokemon_name": "ヌオー",
+        "url": "https://yakkun.com/sv/zukan/n195"
+    },
+    {
+        "dex_no": 196,
+        "pokemon_name": "エーフィ",
+        "url": "https://yakkun.com/sv/zukan/n196"
+    },
+    {
+        "dex_no": 197,
+        "pokemon_name": "ブラッキー",
+        "url": "https://yakkun.com/sv/zukan/n197"
+    },
+    {
+        "dex_no": 198,
+        "pokemon_name": "ヤミカラス",
+        "url": "https://yakkun.com/sv/zukan/n198"
+    },
+    {
+        "dex_no": 199,
+        "pokemon_name": "ヤドキング",
+        "url": "https://yakkun.com/sv/zukan/n199"
+    },
+    {
+        "dex_no": 199,
+        "pokemon_name": "ヤドキング(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n199g"
+    },
+    {
+        "dex_no": 200,
+        "pokemon_name": "ムウマ",
+        "url": "https://yakkun.com/sv/zukan/n200"
+    },
+    {
+        "dex_no": 201,
+        "pokemon_name": "アンノーン",
+        "url": "https://yakkun.com/sv/zukan/n201"
+    },
+    {
+        "dex_no": 202,
+        "pokemon_name": "ソーナンス",
+        "url": "https://yakkun.com/sv/zukan/n202"
+    },
+    {
+        "dex_no": 203,
+        "pokemon_name": "キリンリキ",
+        "url": "https://yakkun.com/sv/zukan/n203"
+    },
+    {
+        "dex_no": 204,
+        "pokemon_name": "クヌギダマ",
+        "url": "https://yakkun.com/sv/zukan/n204"
+    },
+    {
+        "dex_no": 205,
+        "pokemon_name": "フォレトス",
+        "url": "https://yakkun.com/sv/zukan/n205"
+    },
+    {
+        "dex_no": 206,
+        "pokemon_name": "ノコッチ",
+        "url": "https://yakkun.com/sv/zukan/n206"
+    },
+    {
+        "dex_no": 207,
+        "pokemon_name": "グライガー",
+        "url": "https://yakkun.com/sv/zukan/n207"
+    },
+    {
+        "dex_no": 208,
+        "pokemon_name": "ハガネール",
+        "url": "https://yakkun.com/sv/zukan/n208"
+    },
+    {
+        "dex_no": 208,
+        "pokemon_name": "メガハガネール",
+        "url": "https://yakkun.com/sv/zukan/n208m"
+    },
+    {
+        "dex_no": 209,
+        "pokemon_name": "ブルー",
+        "url": "https://yakkun.com/sv/zukan/n209"
+    },
+    {
+        "dex_no": 210,
+        "pokemon_name": "グランブル",
+        "url": "https://yakkun.com/sv/zukan/n210"
+    },
+    {
+        "dex_no": 211,
+        "pokemon_name": "ハリーセン",
+        "url": "https://yakkun.com/sv/zukan/n211"
+    },
+    {
+        "dex_no": 211,
+        "pokemon_name": "ハリーセン(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n211h"
+    },
+    {
+        "dex_no": 212,
+        "pokemon_name": "ハッサム",
+        "url": "https://yakkun.com/sv/zukan/n212"
+    },
+    {
+        "dex_no": 212,
+        "pokemon_name": "メガハッサム",
+        "url": "https://yakkun.com/sv/zukan/n212m"
+    },
+    {
+        "dex_no": 213,
+        "pokemon_name": "ツボツボ",
+        "url": "https://yakkun.com/sv/zukan/n213"
+    },
+    {
+        "dex_no": 214,
+        "pokemon_name": "ヘラクロス",
+        "url": "https://yakkun.com/sv/zukan/n214"
+    },
+    {
+        "dex_no": 214,
+        "pokemon_name": "メガヘラクロス",
+        "url": "https://yakkun.com/sv/zukan/n214m"
+    },
+    {
+        "dex_no": 215,
+        "pokemon_name": "ニューラ",
+        "url": "https://yakkun.com/sv/zukan/n215"
+    },
+    {
+        "dex_no": 215,
+        "pokemon_name": "ニューラ(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n215h"
+    },
+    {
+        "dex_no": 216,
+        "pokemon_name": "ヒメグマ",
+        "url": "https://yakkun.com/sv/zukan/n216"
+    },
+    {
+        "dex_no": 217,
+        "pokemon_name": "リングマ",
+        "url": "https://yakkun.com/sv/zukan/n217"
+    },
+    {
+        "dex_no": 218,
+        "pokemon_name": "マグマッグ",
+        "url": "https://yakkun.com/sv/zukan/n218"
+    },
+    {
+        "dex_no": 219,
+        "pokemon_name": "マグカルゴ",
+        "url": "https://yakkun.com/sv/zukan/n219"
+    },
+    {
+        "dex_no": 220,
+        "pokemon_name": "ウリムー",
+        "url": "https://yakkun.com/sv/zukan/n220"
+    },
+    {
+        "dex_no": 221,
+        "pokemon_name": "イノムー",
+        "url": "https://yakkun.com/sv/zukan/n221"
+    },
+    {
+        "dex_no": 222,
+        "pokemon_name": "サニーゴ",
+        "url": "https://yakkun.com/sv/zukan/n222"
+    },
+    {
+        "dex_no": 222,
+        "pokemon_name": "サニーゴ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n222g"
+    },
+    {
+        "dex_no": 223,
+        "pokemon_name": "テッポウオ",
+        "url": "https://yakkun.com/sv/zukan/n223"
+    },
+    {
+        "dex_no": 224,
+        "pokemon_name": "オクタン",
+        "url": "https://yakkun.com/sv/zukan/n224"
+    },
+    {
+        "dex_no": 225,
+        "pokemon_name": "デリバード",
+        "url": "https://yakkun.com/sv/zukan/n225"
+    },
+    {
+        "dex_no": 226,
+        "pokemon_name": "マンタイン",
+        "url": "https://yakkun.com/sv/zukan/n226"
+    },
+    {
+        "dex_no": 227,
+        "pokemon_name": "エアームド",
+        "url": "https://yakkun.com/sv/zukan/n227"
+    },
+    {
+        "dex_no": 228,
+        "pokemon_name": "デルビル",
+        "url": "https://yakkun.com/sv/zukan/n228"
+    },
+    {
+        "dex_no": 229,
+        "pokemon_name": "ヘルガー",
+        "url": "https://yakkun.com/sv/zukan/n229"
+    },
+    {
+        "dex_no": 229,
+        "pokemon_name": "メガヘルガー",
+        "url": "https://yakkun.com/sv/zukan/n229m"
+    },
+    {
+        "dex_no": 230,
+        "pokemon_name": "キングドラ",
+        "url": "https://yakkun.com/sv/zukan/n230"
+    },
+    {
+        "dex_no": 231,
+        "pokemon_name": "ゴマゾウ",
+        "url": "https://yakkun.com/sv/zukan/n231"
+    },
+    {
+        "dex_no": 232,
+        "pokemon_name": "ドンファン",
+        "url": "https://yakkun.com/sv/zukan/n232"
+    },
+    {
+        "dex_no": 233,
+        "pokemon_name": "ポリゴン2",
+        "url": "https://yakkun.com/sv/zukan/n233"
+    },
+    {
+        "dex_no": 234,
+        "pokemon_name": "オドシシ",
+        "url": "https://yakkun.com/sv/zukan/n234"
+    },
+    {
+        "dex_no": 235,
+        "pokemon_name": "ドーブル",
+        "url": "https://yakkun.com/sv/zukan/n235"
+    },
+    {
+        "dex_no": 236,
+        "pokemon_name": "バルキー",
+        "url": "https://yakkun.com/sv/zukan/n236"
+    },
+    {
+        "dex_no": 237,
+        "pokemon_name": "カポエラー",
+        "url": "https://yakkun.com/sv/zukan/n237"
+    },
+    {
+        "dex_no": 238,
+        "pokemon_name": "ムチュール",
+        "url": "https://yakkun.com/sv/zukan/n238"
+    },
+    {
+        "dex_no": 239,
+        "pokemon_name": "エレキッド",
+        "url": "https://yakkun.com/sv/zukan/n239"
+    },
+    {
+        "dex_no": 240,
+        "pokemon_name": "ブビィ",
+        "url": "https://yakkun.com/sv/zukan/n240"
+    },
+    {
+        "dex_no": 241,
+        "pokemon_name": "ミルタンク",
+        "url": "https://yakkun.com/sv/zukan/n241"
+    },
+    {
+        "dex_no": 242,
+        "pokemon_name": "ハピナス",
+        "url": "https://yakkun.com/sv/zukan/n242"
+    },
+    {
+        "dex_no": 243,
+        "pokemon_name": "ライコウ",
+        "url": "https://yakkun.com/sv/zukan/n243"
+    },
+    {
+        "dex_no": 244,
+        "pokemon_name": "エンテイ",
+        "url": "https://yakkun.com/sv/zukan/n244"
+    },
+    {
+        "dex_no": 245,
+        "pokemon_name": "スイクン",
+        "url": "https://yakkun.com/sv/zukan/n245"
+    },
+    {
+        "dex_no": 246,
+        "pokemon_name": "ヨーギラス",
+        "url": "https://yakkun.com/sv/zukan/n246"
+    },
+    {
+        "dex_no": 247,
+        "pokemon_name": "サナギラス",
+        "url": "https://yakkun.com/sv/zukan/n247"
+    },
+    {
+        "dex_no": 248,
+        "pokemon_name": "バンギラス",
+        "url": "https://yakkun.com/sv/zukan/n248"
+    },
+    {
+        "dex_no": 248,
+        "pokemon_name": "メガバンギラス",
+        "url": "https://yakkun.com/sv/zukan/n248m"
+    },
+    {
+        "dex_no": 249,
+        "pokemon_name": "ルギア",
+        "url": "https://yakkun.com/sv/zukan/n249"
+    },
+    {
+        "dex_no": 250,
+        "pokemon_name": "ホウオウ",
+        "url": "https://yakkun.com/sv/zukan/n250"
+    },
+    {
+        "dex_no": 251,
+        "pokemon_name": "セレビィ",
+        "url": "https://yakkun.com/sv/zukan/n251"
+    },
+    {
+        "dex_no": 252,
+        "pokemon_name": "キモリ",
+        "url": "https://yakkun.com/sv/zukan/n252"
+    },
+    {
+        "dex_no": 253,
+        "pokemon_name": "ジュプトル",
+        "url": "https://yakkun.com/sv/zukan/n253"
+    },
+    {
+        "dex_no": 254,
+        "pokemon_name": "ジュカイン",
+        "url": "https://yakkun.com/sv/zukan/n254"
+    },
+    {
+        "dex_no": 254,
+        "pokemon_name": "メガジュカイン",
+        "url": "https://yakkun.com/sv/zukan/n254m"
+    },
+    {
+        "dex_no": 255,
+        "pokemon_name": "アチャモ",
+        "url": "https://yakkun.com/sv/zukan/n255"
+    },
+    {
+        "dex_no": 256,
+        "pokemon_name": "ワカシャモ",
+        "url": "https://yakkun.com/sv/zukan/n256"
+    },
+    {
+        "dex_no": 257,
+        "pokemon_name": "バシャーモ",
+        "url": "https://yakkun.com/sv/zukan/n257"
+    },
+    {
+        "dex_no": 257,
+        "pokemon_name": "メガバシャーモ",
+        "url": "https://yakkun.com/sv/zukan/n257m"
+    },
+    {
+        "dex_no": 258,
+        "pokemon_name": "ミズゴロウ",
+        "url": "https://yakkun.com/sv/zukan/n258"
+    },
+    {
+        "dex_no": 259,
+        "pokemon_name": "ヌマクロー",
+        "url": "https://yakkun.com/sv/zukan/n259"
+    },
+    {
+        "dex_no": 260,
+        "pokemon_name": "ラグラージ",
+        "url": "https://yakkun.com/sv/zukan/n260"
+    },
+    {
+        "dex_no": 260,
+        "pokemon_name": "メガラグラージ",
+        "url": "https://yakkun.com/sv/zukan/n260m"
+    },
+    {
+        "dex_no": 261,
+        "pokemon_name": "ポチエナ",
+        "url": "https://yakkun.com/sv/zukan/n261"
+    },
+    {
+        "dex_no": 262,
+        "pokemon_name": "グラエナ",
+        "url": "https://yakkun.com/sv/zukan/n262"
+    },
+    {
+        "dex_no": 263,
+        "pokemon_name": "ジグザグマ",
+        "url": "https://yakkun.com/sv/zukan/n263"
+    },
+    {
+        "dex_no": 263,
+        "pokemon_name": "ジグザグマ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n263g"
+    },
+    {
+        "dex_no": 264,
+        "pokemon_name": "マッスグマ",
+        "url": "https://yakkun.com/sv/zukan/n264"
+    },
+    {
+        "dex_no": 264,
+        "pokemon_name": "マッスグマ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n264g"
+    },
+    {
+        "dex_no": 265,
+        "pokemon_name": "ケムッソ",
+        "url": "https://yakkun.com/sv/zukan/n265"
+    },
+    {
+        "dex_no": 266,
+        "pokemon_name": "カラサリス",
+        "url": "https://yakkun.com/sv/zukan/n266"
+    },
+    {
+        "dex_no": 267,
+        "pokemon_name": "アゲハント",
+        "url": "https://yakkun.com/sv/zukan/n267"
+    },
+    {
+        "dex_no": 268,
+        "pokemon_name": "マユルド",
+        "url": "https://yakkun.com/sv/zukan/n268"
+    },
+    {
+        "dex_no": 269,
+        "pokemon_name": "ドクケイル",
+        "url": "https://yakkun.com/sv/zukan/n269"
+    },
+    {
+        "dex_no": 270,
+        "pokemon_name": "ハスボー",
+        "url": "https://yakkun.com/sv/zukan/n270"
+    },
+    {
+        "dex_no": 271,
+        "pokemon_name": "ハスブレロ",
+        "url": "https://yakkun.com/sv/zukan/n271"
+    },
+    {
+        "dex_no": 272,
+        "pokemon_name": "ルンパッパ",
+        "url": "https://yakkun.com/sv/zukan/n272"
+    },
+    {
+        "dex_no": 273,
+        "pokemon_name": "タネボー",
+        "url": "https://yakkun.com/sv/zukan/n273"
+    },
+    {
+        "dex_no": 274,
+        "pokemon_name": "コノハナ",
+        "url": "https://yakkun.com/sv/zukan/n274"
+    },
+    {
+        "dex_no": 275,
+        "pokemon_name": "ダーテング",
+        "url": "https://yakkun.com/sv/zukan/n275"
+    },
+    {
+        "dex_no": 276,
+        "pokemon_name": "スバメ",
+        "url": "https://yakkun.com/sv/zukan/n276"
+    },
+    {
+        "dex_no": 277,
+        "pokemon_name": "オオスバメ",
+        "url": "https://yakkun.com/sv/zukan/n277"
+    },
+    {
+        "dex_no": 278,
+        "pokemon_name": "キャモメ",
+        "url": "https://yakkun.com/sv/zukan/n278"
+    },
+    {
+        "dex_no": 279,
+        "pokemon_name": "ペリッパー",
+        "url": "https://yakkun.com/sv/zukan/n279"
+    },
+    {
+        "dex_no": 280,
+        "pokemon_name": "ラルトス",
+        "url": "https://yakkun.com/sv/zukan/n280"
+    },
+    {
+        "dex_no": 281,
+        "pokemon_name": "キルリア",
+        "url": "https://yakkun.com/sv/zukan/n281"
+    },
+    {
+        "dex_no": 282,
+        "pokemon_name": "サーナイト",
+        "url": "https://yakkun.com/sv/zukan/n282"
+    },
+    {
+        "dex_no": 282,
+        "pokemon_name": "メガサーナイト",
+        "url": "https://yakkun.com/sv/zukan/n282m"
+    },
+    {
+        "dex_no": 283,
+        "pokemon_name": "アメタマ",
+        "url": "https://yakkun.com/sv/zukan/n283"
+    },
+    {
+        "dex_no": 284,
+        "pokemon_name": "アメモース",
+        "url": "https://yakkun.com/sv/zukan/n284"
+    },
+    {
+        "dex_no": 285,
+        "pokemon_name": "キノココ",
+        "url": "https://yakkun.com/sv/zukan/n285"
+    },
+    {
+        "dex_no": 286,
+        "pokemon_name": "キノガッサ",
+        "url": "https://yakkun.com/sv/zukan/n286"
+    },
+    {
+        "dex_no": 287,
+        "pokemon_name": "ナマケロ",
+        "url": "https://yakkun.com/sv/zukan/n287"
+    },
+    {
+        "dex_no": 288,
+        "pokemon_name": "ヤルキモノ",
+        "url": "https://yakkun.com/sv/zukan/n288"
+    },
+    {
+        "dex_no": 289,
+        "pokemon_name": "ケッキング",
+        "url": "https://yakkun.com/sv/zukan/n289"
+    },
+    {
+        "dex_no": 290,
+        "pokemon_name": "ツチニン",
+        "url": "https://yakkun.com/sv/zukan/n290"
+    },
+    {
+        "dex_no": 291,
+        "pokemon_name": "テッカニン",
+        "url": "https://yakkun.com/sv/zukan/n291"
+    },
+    {
+        "dex_no": 292,
+        "pokemon_name": "ヌケニン",
+        "url": "https://yakkun.com/sv/zukan/n292"
+    },
+    {
+        "dex_no": 293,
+        "pokemon_name": "ゴニョニョ",
+        "url": "https://yakkun.com/sv/zukan/n293"
+    },
+    {
+        "dex_no": 294,
+        "pokemon_name": "ドゴーム",
+        "url": "https://yakkun.com/sv/zukan/n294"
+    },
+    {
+        "dex_no": 295,
+        "pokemon_name": "バクオング",
+        "url": "https://yakkun.com/sv/zukan/n295"
+    },
+    {
+        "dex_no": 296,
+        "pokemon_name": "マクノシタ",
+        "url": "https://yakkun.com/sv/zukan/n296"
+    },
+    {
+        "dex_no": 297,
+        "pokemon_name": "ハリテヤマ",
+        "url": "https://yakkun.com/sv/zukan/n297"
+    },
+    {
+        "dex_no": 298,
+        "pokemon_name": "ルリリ",
+        "url": "https://yakkun.com/sv/zukan/n298"
+    },
+    {
+        "dex_no": 299,
+        "pokemon_name": "ノズパス",
+        "url": "https://yakkun.com/sv/zukan/n299"
+    },
+    {
+        "dex_no": 300,
+        "pokemon_name": "エネコ",
+        "url": "https://yakkun.com/sv/zukan/n300"
+    },
+    {
+        "dex_no": 301,
+        "pokemon_name": "エネコロロ",
+        "url": "https://yakkun.com/sv/zukan/n301"
+    },
+    {
+        "dex_no": 302,
+        "pokemon_name": "ヤミラミ",
+        "url": "https://yakkun.com/sv/zukan/n302"
+    },
+    {
+        "dex_no": 302,
+        "pokemon_name": "メガヤミラミ",
+        "url": "https://yakkun.com/sv/zukan/n302m"
+    },
+    {
+        "dex_no": 303,
+        "pokemon_name": "クチート",
+        "url": "https://yakkun.com/sv/zukan/n303"
+    },
+    {
+        "dex_no": 303,
+        "pokemon_name": "メガクチート",
+        "url": "https://yakkun.com/sv/zukan/n303m"
+    },
+    {
+        "dex_no": 304,
+        "pokemon_name": "ココドラ",
+        "url": "https://yakkun.com/sv/zukan/n304"
+    },
+    {
+        "dex_no": 305,
+        "pokemon_name": "コドラ",
+        "url": "https://yakkun.com/sv/zukan/n305"
+    },
+    {
+        "dex_no": 306,
+        "pokemon_name": "ボスゴドラ",
+        "url": "https://yakkun.com/sv/zukan/n306"
+    },
+    {
+        "dex_no": 306,
+        "pokemon_name": "メガボスゴドラ",
+        "url": "https://yakkun.com/sv/zukan/n306m"
+    },
+    {
+        "dex_no": 307,
+        "pokemon_name": "アサナン",
+        "url": "https://yakkun.com/sv/zukan/n307"
+    },
+    {
+        "dex_no": 308,
+        "pokemon_name": "チャーレム",
+        "url": "https://yakkun.com/sv/zukan/n308"
+    },
+    {
+        "dex_no": 308,
+        "pokemon_name": "メガチャーレム",
+        "url": "https://yakkun.com/sv/zukan/n308m"
+    },
+    {
+        "dex_no": 309,
+        "pokemon_name": "ラクライ",
+        "url": "https://yakkun.com/sv/zukan/n309"
+    },
+    {
+        "dex_no": 310,
+        "pokemon_name": "ライボルト",
+        "url": "https://yakkun.com/sv/zukan/n310"
+    },
+    {
+        "dex_no": 310,
+        "pokemon_name": "メガライボルト",
+        "url": "https://yakkun.com/sv/zukan/n310m"
+    },
+    {
+        "dex_no": 311,
+        "pokemon_name": "プラスル",
+        "url": "https://yakkun.com/sv/zukan/n311"
+    },
+    {
+        "dex_no": 312,
+        "pokemon_name": "マイナン",
+        "url": "https://yakkun.com/sv/zukan/n312"
+    },
+    {
+        "dex_no": 313,
+        "pokemon_name": "バルビート",
+        "url": "https://yakkun.com/sv/zukan/n313"
+    },
+    {
+        "dex_no": 314,
+        "pokemon_name": "イルミーゼ",
+        "url": "https://yakkun.com/sv/zukan/n314"
+    },
+    {
+        "dex_no": 315,
+        "pokemon_name": "ロゼリア",
+        "url": "https://yakkun.com/sv/zukan/n315"
+    },
+    {
+        "dex_no": 316,
+        "pokemon_name": "ゴクリン",
+        "url": "https://yakkun.com/sv/zukan/n316"
+    },
+    {
+        "dex_no": 317,
+        "pokemon_name": "マルノーム",
+        "url": "https://yakkun.com/sv/zukan/n317"
+    },
+    {
+        "dex_no": 318,
+        "pokemon_name": "キバニア",
+        "url": "https://yakkun.com/sv/zukan/n318"
+    },
+    {
+        "dex_no": 319,
+        "pokemon_name": "サメハダー",
+        "url": "https://yakkun.com/sv/zukan/n319"
+    },
+    {
+        "dex_no": 319,
+        "pokemon_name": "メガサメハダー",
+        "url": "https://yakkun.com/sv/zukan/n319m"
+    },
+    {
+        "dex_no": 320,
+        "pokemon_name": "ホエルコ",
+        "url": "https://yakkun.com/sv/zukan/n320"
+    },
+    {
+        "dex_no": 321,
+        "pokemon_name": "ホエルオー",
+        "url": "https://yakkun.com/sv/zukan/n321"
+    },
+    {
+        "dex_no": 322,
+        "pokemon_name": "ドンメル",
+        "url": "https://yakkun.com/sv/zukan/n322"
+    },
+    {
+        "dex_no": 323,
+        "pokemon_name": "バクーダ",
+        "url": "https://yakkun.com/sv/zukan/n323"
+    },
+    {
+        "dex_no": 323,
+        "pokemon_name": "メガバクーダ",
+        "url": "https://yakkun.com/sv/zukan/n323m"
+    },
+    {
+        "dex_no": 324,
+        "pokemon_name": "コータス",
+        "url": "https://yakkun.com/sv/zukan/n324"
+    },
+    {
+        "dex_no": 325,
+        "pokemon_name": "バネブー",
+        "url": "https://yakkun.com/sv/zukan/n325"
+    },
+    {
+        "dex_no": 326,
+        "pokemon_name": "ブーピッグ",
+        "url": "https://yakkun.com/sv/zukan/n326"
+    },
+    {
+        "dex_no": 327,
+        "pokemon_name": "パッチール",
+        "url": "https://yakkun.com/sv/zukan/n327"
+    },
+    {
+        "dex_no": 328,
+        "pokemon_name": "ナックラー",
+        "url": "https://yakkun.com/sv/zukan/n328"
+    },
+    {
+        "dex_no": 329,
+        "pokemon_name": "ビブラーバ",
+        "url": "https://yakkun.com/sv/zukan/n329"
+    },
+    {
+        "dex_no": 330,
+        "pokemon_name": "フライゴン",
+        "url": "https://yakkun.com/sv/zukan/n330"
+    },
+    {
+        "dex_no": 331,
+        "pokemon_name": "サボネア",
+        "url": "https://yakkun.com/sv/zukan/n331"
+    },
+    {
+        "dex_no": 332,
+        "pokemon_name": "ノクタス",
+        "url": "https://yakkun.com/sv/zukan/n332"
+    },
+    {
+        "dex_no": 333,
+        "pokemon_name": "チルット",
+        "url": "https://yakkun.com/sv/zukan/n333"
+    },
+    {
+        "dex_no": 334,
+        "pokemon_name": "チルタリス",
+        "url": "https://yakkun.com/sv/zukan/n334"
+    },
+    {
+        "dex_no": 334,
+        "pokemon_name": "メガチルタリス",
+        "url": "https://yakkun.com/sv/zukan/n334m"
+    },
+    {
+        "dex_no": 335,
+        "pokemon_name": "ザングース",
+        "url": "https://yakkun.com/sv/zukan/n335"
+    },
+    {
+        "dex_no": 336,
+        "pokemon_name": "ハブネーク",
+        "url": "https://yakkun.com/sv/zukan/n336"
+    },
+    {
+        "dex_no": 337,
+        "pokemon_name": "ルナトーン",
+        "url": "https://yakkun.com/sv/zukan/n337"
+    },
+    {
+        "dex_no": 338,
+        "pokemon_name": "ソルロック",
+        "url": "https://yakkun.com/sv/zukan/n338"
+    },
+    {
+        "dex_no": 339,
+        "pokemon_name": "ドジョッチ",
+        "url": "https://yakkun.com/sv/zukan/n339"
+    },
+    {
+        "dex_no": 340,
+        "pokemon_name": "ナマズン",
+        "url": "https://yakkun.com/sv/zukan/n340"
+    },
+    {
+        "dex_no": 341,
+        "pokemon_name": "ヘイガニ",
+        "url": "https://yakkun.com/sv/zukan/n341"
+    },
+    {
+        "dex_no": 342,
+        "pokemon_name": "シザリガー",
+        "url": "https://yakkun.com/sv/zukan/n342"
+    },
+    {
+        "dex_no": 343,
+        "pokemon_name": "ヤジロン",
+        "url": "https://yakkun.com/sv/zukan/n343"
+    },
+    {
+        "dex_no": 344,
+        "pokemon_name": "ネンドール",
+        "url": "https://yakkun.com/sv/zukan/n344"
+    },
+    {
+        "dex_no": 345,
+        "pokemon_name": "リリーラ",
+        "url": "https://yakkun.com/sv/zukan/n345"
+    },
+    {
+        "dex_no": 346,
+        "pokemon_name": "ユレイドル",
+        "url": "https://yakkun.com/sv/zukan/n346"
+    },
+    {
+        "dex_no": 347,
+        "pokemon_name": "アノプス",
+        "url": "https://yakkun.com/sv/zukan/n347"
+    },
+    {
+        "dex_no": 348,
+        "pokemon_name": "アーマルド",
+        "url": "https://yakkun.com/sv/zukan/n348"
+    },
+    {
+        "dex_no": 349,
+        "pokemon_name": "ヒンバス",
+        "url": "https://yakkun.com/sv/zukan/n349"
+    },
+    {
+        "dex_no": 350,
+        "pokemon_name": "ミロカロス",
+        "url": "https://yakkun.com/sv/zukan/n350"
+    },
+    {
+        "dex_no": 351,
+        "pokemon_name": "ポワルン",
+        "url": "https://yakkun.com/sv/zukan/n351"
+    },
+    {
+        "dex_no": 352,
+        "pokemon_name": "カクレオン",
+        "url": "https://yakkun.com/sv/zukan/n352"
+    },
+    {
+        "dex_no": 353,
+        "pokemon_name": "カゲボウズ",
+        "url": "https://yakkun.com/sv/zukan/n353"
+    },
+    {
+        "dex_no": 354,
+        "pokemon_name": "ジュペッタ",
+        "url": "https://yakkun.com/sv/zukan/n354"
+    },
+    {
+        "dex_no": 354,
+        "pokemon_name": "メガジュペッタ",
+        "url": "https://yakkun.com/sv/zukan/n354m"
+    },
+    {
+        "dex_no": 355,
+        "pokemon_name": "ヨマワル",
+        "url": "https://yakkun.com/sv/zukan/n355"
+    },
+    {
+        "dex_no": 356,
+        "pokemon_name": "サマヨール",
+        "url": "https://yakkun.com/sv/zukan/n356"
+    },
+    {
+        "dex_no": 357,
+        "pokemon_name": "トロピウス",
+        "url": "https://yakkun.com/sv/zukan/n357"
+    },
+    {
+        "dex_no": 358,
+        "pokemon_name": "チリーン",
+        "url": "https://yakkun.com/sv/zukan/n358"
+    },
+    {
+        "dex_no": 359,
+        "pokemon_name": "アブソル",
+        "url": "https://yakkun.com/sv/zukan/n359"
+    },
+    {
+        "dex_no": 359,
+        "pokemon_name": "メガアブソル",
+        "url": "https://yakkun.com/sv/zukan/n359m"
+    },
+    {
+        "dex_no": 360,
+        "pokemon_name": "ソーナノ",
+        "url": "https://yakkun.com/sv/zukan/n360"
+    },
+    {
+        "dex_no": 361,
+        "pokemon_name": "ユキワラシ",
+        "url": "https://yakkun.com/sv/zukan/n361"
+    },
+    {
+        "dex_no": 362,
+        "pokemon_name": "オニゴーリ",
+        "url": "https://yakkun.com/sv/zukan/n362"
+    },
+    {
+        "dex_no": 362,
+        "pokemon_name": "メガオニゴーリ",
+        "url": "https://yakkun.com/sv/zukan/n362m"
+    },
+    {
+        "dex_no": 363,
+        "pokemon_name": "タマザラシ",
+        "url": "https://yakkun.com/sv/zukan/n363"
+    },
+    {
+        "dex_no": 364,
+        "pokemon_name": "トドグラー",
+        "url": "https://yakkun.com/sv/zukan/n364"
+    },
+    {
+        "dex_no": 365,
+        "pokemon_name": "トドゼルガ",
+        "url": "https://yakkun.com/sv/zukan/n365"
+    },
+    {
+        "dex_no": 366,
+        "pokemon_name": "パールル",
+        "url": "https://yakkun.com/sv/zukan/n366"
+    },
+    {
+        "dex_no": 367,
+        "pokemon_name": "ハンテール",
+        "url": "https://yakkun.com/sv/zukan/n367"
+    },
+    {
+        "dex_no": 368,
+        "pokemon_name": "サクラビス",
+        "url": "https://yakkun.com/sv/zukan/n368"
+    },
+    {
+        "dex_no": 369,
+        "pokemon_name": "ジーランス",
+        "url": "https://yakkun.com/sv/zukan/n369"
+    },
+    {
+        "dex_no": 370,
+        "pokemon_name": "ラブカス",
+        "url": "https://yakkun.com/sv/zukan/n370"
+    },
+    {
+        "dex_no": 371,
+        "pokemon_name": "タツベイ",
+        "url": "https://yakkun.com/sv/zukan/n371"
+    },
+    {
+        "dex_no": 372,
+        "pokemon_name": "コモルー",
+        "url": "https://yakkun.com/sv/zukan/n372"
+    },
+    {
+        "dex_no": 373,
+        "pokemon_name": "ボーマンダ",
+        "url": "https://yakkun.com/sv/zukan/n373"
+    },
+    {
+        "dex_no": 373,
+        "pokemon_name": "メガボーマンダ",
+        "url": "https://yakkun.com/sv/zukan/n373m"
+    },
+    {
+        "dex_no": 374,
+        "pokemon_name": "ダンバル",
+        "url": "https://yakkun.com/sv/zukan/n374"
+    },
+    {
+        "dex_no": 375,
+        "pokemon_name": "メタング",
+        "url": "https://yakkun.com/sv/zukan/n375"
+    },
+    {
+        "dex_no": 376,
+        "pokemon_name": "メタグロス",
+        "url": "https://yakkun.com/sv/zukan/n376"
+    },
+    {
+        "dex_no": 376,
+        "pokemon_name": "メガメタグロス",
+        "url": "https://yakkun.com/sv/zukan/n376m"
+    },
+    {
+        "dex_no": 377,
+        "pokemon_name": "レジロック",
+        "url": "https://yakkun.com/sv/zukan/n377"
+    },
+    {
+        "dex_no": 378,
+        "pokemon_name": "レジアイス",
+        "url": "https://yakkun.com/sv/zukan/n378"
+    },
+    {
+        "dex_no": 379,
+        "pokemon_name": "レジスチル",
+        "url": "https://yakkun.com/sv/zukan/n379"
+    },
+    {
+        "dex_no": 380,
+        "pokemon_name": "ラティアス",
+        "url": "https://yakkun.com/sv/zukan/n380"
+    },
+    {
+        "dex_no": 380,
+        "pokemon_name": "メガラティアス",
+        "url": "https://yakkun.com/sv/zukan/n380m"
+    },
+    {
+        "dex_no": 381,
+        "pokemon_name": "ラティオス",
+        "url": "https://yakkun.com/sv/zukan/n381"
+    },
+    {
+        "dex_no": 381,
+        "pokemon_name": "メガラティオス",
+        "url": "https://yakkun.com/sv/zukan/n381m"
+    },
+    {
+        "dex_no": 382,
+        "pokemon_name": "カイオーガ",
+        "url": "https://yakkun.com/sv/zukan/n382"
+    },
+    {
+        "dex_no": 382,
+        "pokemon_name": "ゲンシカイオーガ",
+        "url": "https://yakkun.com/sv/zukan/n382p"
+    },
+    {
+        "dex_no": 383,
+        "pokemon_name": "グラードン",
+        "url": "https://yakkun.com/sv/zukan/n383"
+    },
+    {
+        "dex_no": 383,
+        "pokemon_name": "ゲンシグラードン",
+        "url": "https://yakkun.com/sv/zukan/n383p"
+    },
+    {
+        "dex_no": 384,
+        "pokemon_name": "レックウザ",
+        "url": "https://yakkun.com/sv/zukan/n384"
+    },
+    {
+        "dex_no": 384,
+        "pokemon_name": "メガレックウザ",
+        "url": "https://yakkun.com/sv/zukan/n384m"
+    },
+    {
+        "dex_no": 385,
+        "pokemon_name": "ジラーチ",
+        "url": "https://yakkun.com/sv/zukan/n385"
+    },
+    {
+        "dex_no": 386,
+        "pokemon_name": "デオキシス(ノーマル)",
+        "url": "https://yakkun.com/sv/zukan/n386"
+    },
+    {
+        "dex_no": 386,
+        "pokemon_name": "デオキシス(アタック)",
+        "url": "https://yakkun.com/sv/zukan/n386a"
+    },
+    {
+        "dex_no": 386,
+        "pokemon_name": "デオキシス(ディフェンス)",
+        "url": "https://yakkun.com/sv/zukan/n386d"
+    },
+    {
+        "dex_no": 386,
+        "pokemon_name": "デオキシス(スピード)",
+        "url": "https://yakkun.com/sv/zukan/n386s"
+    },
+    {
+        "dex_no": 387,
+        "pokemon_name": "ナエトル",
+        "url": "https://yakkun.com/sv/zukan/n387"
+    },
+    {
+        "dex_no": 388,
+        "pokemon_name": "ハヤシガメ",
+        "url": "https://yakkun.com/sv/zukan/n388"
+    },
+    {
+        "dex_no": 389,
+        "pokemon_name": "ドダイトス",
+        "url": "https://yakkun.com/sv/zukan/n389"
+    },
+    {
+        "dex_no": 390,
+        "pokemon_name": "ヒコザル",
+        "url": "https://yakkun.com/sv/zukan/n390"
+    },
+    {
+        "dex_no": 391,
+        "pokemon_name": "モウカザル",
+        "url": "https://yakkun.com/sv/zukan/n391"
+    },
+    {
+        "dex_no": 392,
+        "pokemon_name": "ゴウカザル",
+        "url": "https://yakkun.com/sv/zukan/n392"
+    },
+    {
+        "dex_no": 393,
+        "pokemon_name": "ポッチャマ",
+        "url": "https://yakkun.com/sv/zukan/n393"
+    },
+    {
+        "dex_no": 394,
+        "pokemon_name": "ポッタイシ",
+        "url": "https://yakkun.com/sv/zukan/n394"
+    },
+    {
+        "dex_no": 395,
+        "pokemon_name": "エンペルト",
+        "url": "https://yakkun.com/sv/zukan/n395"
+    },
+    {
+        "dex_no": 396,
+        "pokemon_name": "ムックル",
+        "url": "https://yakkun.com/sv/zukan/n396"
+    },
+    {
+        "dex_no": 397,
+        "pokemon_name": "ムクバード",
+        "url": "https://yakkun.com/sv/zukan/n397"
+    },
+    {
+        "dex_no": 398,
+        "pokemon_name": "ムクホーク",
+        "url": "https://yakkun.com/sv/zukan/n398"
+    },
+    {
+        "dex_no": 399,
+        "pokemon_name": "ビッパ",
+        "url": "https://yakkun.com/sv/zukan/n399"
+    },
+    {
+        "dex_no": 400,
+        "pokemon_name": "ビーダル",
+        "url": "https://yakkun.com/sv/zukan/n400"
+    },
+    {
+        "dex_no": 401,
+        "pokemon_name": "コロボーシ",
+        "url": "https://yakkun.com/sv/zukan/n401"
+    },
+    {
+        "dex_no": 402,
+        "pokemon_name": "コロトック",
+        "url": "https://yakkun.com/sv/zukan/n402"
+    },
+    {
+        "dex_no": 403,
+        "pokemon_name": "コリンク",
+        "url": "https://yakkun.com/sv/zukan/n403"
+    },
+    {
+        "dex_no": 404,
+        "pokemon_name": "ルクシオ",
+        "url": "https://yakkun.com/sv/zukan/n404"
+    },
+    {
+        "dex_no": 405,
+        "pokemon_name": "レントラー",
+        "url": "https://yakkun.com/sv/zukan/n405"
+    },
+    {
+        "dex_no": 406,
+        "pokemon_name": "スボミー",
+        "url": "https://yakkun.com/sv/zukan/n406"
+    },
+    {
+        "dex_no": 407,
+        "pokemon_name": "ロズレイド",
+        "url": "https://yakkun.com/sv/zukan/n407"
+    },
+    {
+        "dex_no": 408,
+        "pokemon_name": "ズガイドス",
+        "url": "https://yakkun.com/sv/zukan/n408"
+    },
+    {
+        "dex_no": 409,
+        "pokemon_name": "ラムパルド",
+        "url": "https://yakkun.com/sv/zukan/n409"
+    },
+    {
+        "dex_no": 410,
+        "pokemon_name": "タテトプス",
+        "url": "https://yakkun.com/sv/zukan/n410"
+    },
+    {
+        "dex_no": 411,
+        "pokemon_name": "トリデプス",
+        "url": "https://yakkun.com/sv/zukan/n411"
+    },
+    {
+        "dex_no": 412,
+        "pokemon_name": "ミノムッチ(くさき)",
+        "url": "https://yakkun.com/sv/zukan/n412"
+    },
+    {
+        "dex_no": 413,
+        "pokemon_name": "ミノマダム(くさき)",
+        "url": "https://yakkun.com/sv/zukan/n413"
+    },
+    {
+        "dex_no": 413,
+        "pokemon_name": "ミノマダム(すなち)",
+        "url": "https://yakkun.com/sv/zukan/n413s"
+    },
+    {
+        "dex_no": 413,
+        "pokemon_name": "ミノマダム(ゴミ)",
+        "url": "https://yakkun.com/sv/zukan/n413d"
+    },
+    {
+        "dex_no": 414,
+        "pokemon_name": "ガーメイル",
+        "url": "https://yakkun.com/sv/zukan/n414"
+    },
+    {
+        "dex_no": 415,
+        "pokemon_name": "ミツハニー",
+        "url": "https://yakkun.com/sv/zukan/n415"
+    },
+    {
+        "dex_no": 416,
+        "pokemon_name": "ビークイン",
+        "url": "https://yakkun.com/sv/zukan/n416"
+    },
+    {
+        "dex_no": 417,
+        "pokemon_name": "パチリス",
+        "url": "https://yakkun.com/sv/zukan/n417"
+    },
+    {
+        "dex_no": 418,
+        "pokemon_name": "ブイゼル",
+        "url": "https://yakkun.com/sv/zukan/n418"
+    },
+    {
+        "dex_no": 419,
+        "pokemon_name": "フローゼル",
+        "url": "https://yakkun.com/sv/zukan/n419"
+    },
+    {
+        "dex_no": 420,
+        "pokemon_name": "チェリンボ",
+        "url": "https://yakkun.com/sv/zukan/n420"
+    },
+    {
+        "dex_no": 421,
+        "pokemon_name": "チェリム",
+        "url": "https://yakkun.com/sv/zukan/n421"
+    },
+    {
+        "dex_no": 422,
+        "pokemon_name": "カラナクシ",
+        "url": "https://yakkun.com/sv/zukan/n422"
+    },
+    {
+        "dex_no": 423,
+        "pokemon_name": "トリトドン",
+        "url": "https://yakkun.com/sv/zukan/n423"
+    },
+    {
+        "dex_no": 424,
+        "pokemon_name": "エテボース",
+        "url": "https://yakkun.com/sv/zukan/n424"
+    },
+    {
+        "dex_no": 425,
+        "pokemon_name": "フワンテ",
+        "url": "https://yakkun.com/sv/zukan/n425"
+    },
+    {
+        "dex_no": 426,
+        "pokemon_name": "フワライド",
+        "url": "https://yakkun.com/sv/zukan/n426"
+    },
+    {
+        "dex_no": 427,
+        "pokemon_name": "ミミロル",
+        "url": "https://yakkun.com/sv/zukan/n427"
+    },
+    {
+        "dex_no": 428,
+        "pokemon_name": "ミミロップ",
+        "url": "https://yakkun.com/sv/zukan/n428"
+    },
+    {
+        "dex_no": 428,
+        "pokemon_name": "メガミミロップ",
+        "url": "https://yakkun.com/sv/zukan/n428m"
+    },
+    {
+        "dex_no": 429,
+        "pokemon_name": "ムウマージ",
+        "url": "https://yakkun.com/sv/zukan/n429"
+    },
+    {
+        "dex_no": 430,
+        "pokemon_name": "ドンカラス",
+        "url": "https://yakkun.com/sv/zukan/n430"
+    },
+    {
+        "dex_no": 431,
+        "pokemon_name": "ニャルマー",
+        "url": "https://yakkun.com/sv/zukan/n431"
+    },
+    {
+        "dex_no": 432,
+        "pokemon_name": "ブニャット",
+        "url": "https://yakkun.com/sv/zukan/n432"
+    },
+    {
+        "dex_no": 433,
+        "pokemon_name": "リーシャン",
+        "url": "https://yakkun.com/sv/zukan/n433"
+    },
+    {
+        "dex_no": 434,
+        "pokemon_name": "スカンプー",
+        "url": "https://yakkun.com/sv/zukan/n434"
+    },
+    {
+        "dex_no": 435,
+        "pokemon_name": "スカタンク",
+        "url": "https://yakkun.com/sv/zukan/n435"
+    },
+    {
+        "dex_no": 436,
+        "pokemon_name": "ドーミラー",
+        "url": "https://yakkun.com/sv/zukan/n436"
+    },
+    {
+        "dex_no": 437,
+        "pokemon_name": "ドータクン",
+        "url": "https://yakkun.com/sv/zukan/n437"
+    },
+    {
+        "dex_no": 438,
+        "pokemon_name": "ウソハチ",
+        "url": "https://yakkun.com/sv/zukan/n438"
+    },
+    {
+        "dex_no": 439,
+        "pokemon_name": "マネネ",
+        "url": "https://yakkun.com/sv/zukan/n439"
+    },
+    {
+        "dex_no": 440,
+        "pokemon_name": "ピンプク",
+        "url": "https://yakkun.com/sv/zukan/n440"
+    },
+    {
+        "dex_no": 441,
+        "pokemon_name": "ペラップ",
+        "url": "https://yakkun.com/sv/zukan/n441"
+    },
+    {
+        "dex_no": 442,
+        "pokemon_name": "ミカルゲ",
+        "url": "https://yakkun.com/sv/zukan/n442"
+    },
+    {
+        "dex_no": 443,
+        "pokemon_name": "フカマル",
+        "url": "https://yakkun.com/sv/zukan/n443"
+    },
+    {
+        "dex_no": 444,
+        "pokemon_name": "ガバイト",
+        "url": "https://yakkun.com/sv/zukan/n444"
+    },
+    {
+        "dex_no": 445,
+        "pokemon_name": "ガブリアス",
+        "url": "https://yakkun.com/sv/zukan/n445"
+    },
+    {
+        "dex_no": 445,
+        "pokemon_name": "メガガブリアス",
+        "url": "https://yakkun.com/sv/zukan/n445m"
+    },
+    {
+        "dex_no": 446,
+        "pokemon_name": "ゴンベ",
+        "url": "https://yakkun.com/sv/zukan/n446"
+    },
+    {
+        "dex_no": 447,
+        "pokemon_name": "リオル",
+        "url": "https://yakkun.com/sv/zukan/n447"
+    },
+    {
+        "dex_no": 448,
+        "pokemon_name": "ルカリオ",
+        "url": "https://yakkun.com/sv/zukan/n448"
+    },
+    {
+        "dex_no": 448,
+        "pokemon_name": "メガルカリオ",
+        "url": "https://yakkun.com/sv/zukan/n448m"
+    },
+    {
+        "dex_no": 449,
+        "pokemon_name": "ヒポポタス",
+        "url": "https://yakkun.com/sv/zukan/n449"
+    },
+    {
+        "dex_no": 450,
+        "pokemon_name": "カバルドン",
+        "url": "https://yakkun.com/sv/zukan/n450"
+    },
+    {
+        "dex_no": 451,
+        "pokemon_name": "スコルピ",
+        "url": "https://yakkun.com/sv/zukan/n451"
+    },
+    {
+        "dex_no": 452,
+        "pokemon_name": "ドラピオン",
+        "url": "https://yakkun.com/sv/zukan/n452"
+    },
+    {
+        "dex_no": 453,
+        "pokemon_name": "グレッグル",
+        "url": "https://yakkun.com/sv/zukan/n453"
+    },
+    {
+        "dex_no": 454,
+        "pokemon_name": "ドクロッグ",
+        "url": "https://yakkun.com/sv/zukan/n454"
+    },
+    {
+        "dex_no": 455,
+        "pokemon_name": "マスキッパ",
+        "url": "https://yakkun.com/sv/zukan/n455"
+    },
+    {
+        "dex_no": 456,
+        "pokemon_name": "ケイコウオ",
+        "url": "https://yakkun.com/sv/zukan/n456"
+    },
+    {
+        "dex_no": 457,
+        "pokemon_name": "ネオラント",
+        "url": "https://yakkun.com/sv/zukan/n457"
+    },
+    {
+        "dex_no": 458,
+        "pokemon_name": "タマンタ",
+        "url": "https://yakkun.com/sv/zukan/n458"
+    },
+    {
+        "dex_no": 459,
+        "pokemon_name": "ユキカブリ",
+        "url": "https://yakkun.com/sv/zukan/n459"
+    },
+    {
+        "dex_no": 460,
+        "pokemon_name": "ユキノオー",
+        "url": "https://yakkun.com/sv/zukan/n460"
+    },
+    {
+        "dex_no": 460,
+        "pokemon_name": "メガユキノオー",
+        "url": "https://yakkun.com/sv/zukan/n460m"
+    },
+    {
+        "dex_no": 461,
+        "pokemon_name": "マニューラ",
+        "url": "https://yakkun.com/sv/zukan/n461"
+    },
+    {
+        "dex_no": 462,
+        "pokemon_name": "ジバコイル",
+        "url": "https://yakkun.com/sv/zukan/n462"
+    },
+    {
+        "dex_no": 463,
+        "pokemon_name": "ベロベルト",
+        "url": "https://yakkun.com/sv/zukan/n463"
+    },
+    {
+        "dex_no": 464,
+        "pokemon_name": "ドサイドン",
+        "url": "https://yakkun.com/sv/zukan/n464"
+    },
+    {
+        "dex_no": 465,
+        "pokemon_name": "モジャンボ",
+        "url": "https://yakkun.com/sv/zukan/n465"
+    },
+    {
+        "dex_no": 466,
+        "pokemon_name": "エレキブル",
+        "url": "https://yakkun.com/sv/zukan/n466"
+    },
+    {
+        "dex_no": 467,
+        "pokemon_name": "ブーバーン",
+        "url": "https://yakkun.com/sv/zukan/n467"
+    },
+    {
+        "dex_no": 468,
+        "pokemon_name": "トゲキッス",
+        "url": "https://yakkun.com/sv/zukan/n468"
+    },
+    {
+        "dex_no": 469,
+        "pokemon_name": "メガヤンマ",
+        "url": "https://yakkun.com/sv/zukan/n469"
+    },
+    {
+        "dex_no": 470,
+        "pokemon_name": "リーフィア",
+        "url": "https://yakkun.com/sv/zukan/n470"
+    },
+    {
+        "dex_no": 471,
+        "pokemon_name": "グレイシア",
+        "url": "https://yakkun.com/sv/zukan/n471"
+    },
+    {
+        "dex_no": 472,
+        "pokemon_name": "グライオン",
+        "url": "https://yakkun.com/sv/zukan/n472"
+    },
+    {
+        "dex_no": 473,
+        "pokemon_name": "マンムー",
+        "url": "https://yakkun.com/sv/zukan/n473"
+    },
+    {
+        "dex_no": 474,
+        "pokemon_name": "ポリゴンZ",
+        "url": "https://yakkun.com/sv/zukan/n474"
+    },
+    {
+        "dex_no": 475,
+        "pokemon_name": "エルレイド",
+        "url": "https://yakkun.com/sv/zukan/n475"
+    },
+    {
+        "dex_no": 475,
+        "pokemon_name": "メガエルレイド",
+        "url": "https://yakkun.com/sv/zukan/n475m"
+    },
+    {
+        "dex_no": 476,
+        "pokemon_name": "ダイノーズ",
+        "url": "https://yakkun.com/sv/zukan/n476"
+    },
+    {
+        "dex_no": 477,
+        "pokemon_name": "ヨノワール",
+        "url": "https://yakkun.com/sv/zukan/n477"
+    },
+    {
+        "dex_no": 478,
+        "pokemon_name": "ユキメノコ",
+        "url": "https://yakkun.com/sv/zukan/n478"
+    },
+    {
+        "dex_no": 479,
+        "pokemon_name": "ロトム",
+        "url": "https://yakkun.com/sv/zukan/n479"
+    },
+    {
+        "dex_no": 479,
+        "pokemon_name": "ヒートロトム",
+        "url": "https://yakkun.com/sv/zukan/n479h"
+    },
+    {
+        "dex_no": 479,
+        "pokemon_name": "ウォッシュロトム",
+        "url": "https://yakkun.com/sv/zukan/n479w"
+    },
+    {
+        "dex_no": 479,
+        "pokemon_name": "フロストロトム",
+        "url": "https://yakkun.com/sv/zukan/n479f"
+    },
+    {
+        "dex_no": 479,
+        "pokemon_name": "スピンロトム",
+        "url": "https://yakkun.com/sv/zukan/n479s"
+    },
+    {
+        "dex_no": 479,
+        "pokemon_name": "カットロトム",
+        "url": "https://yakkun.com/sv/zukan/n479c"
+    },
+    {
+        "dex_no": 480,
+        "pokemon_name": "ユクシー",
+        "url": "https://yakkun.com/sv/zukan/n480"
+    },
+    {
+        "dex_no": 481,
+        "pokemon_name": "エムリット",
+        "url": "https://yakkun.com/sv/zukan/n481"
+    },
+    {
+        "dex_no": 482,
+        "pokemon_name": "アグノム",
+        "url": "https://yakkun.com/sv/zukan/n482"
+    },
+    {
+        "dex_no": 483,
+        "pokemon_name": "ディアルガ",
+        "url": "https://yakkun.com/sv/zukan/n483"
+    },
+    {
+        "dex_no": 483,
+        "pokemon_name": "ディアルガ(オリジン)",
+        "url": "https://yakkun.com/sv/zukan/n483o"
+    },
+    {
+        "dex_no": 484,
+        "pokemon_name": "パルキア",
+        "url": "https://yakkun.com/sv/zukan/n484"
+    },
+    {
+        "dex_no": 484,
+        "pokemon_name": "パルキア(オリジン)",
+        "url": "https://yakkun.com/sv/zukan/n484o"
+    },
+    {
+        "dex_no": 485,
+        "pokemon_name": "ヒードラン",
+        "url": "https://yakkun.com/sv/zukan/n485"
+    },
+    {
+        "dex_no": 486,
+        "pokemon_name": "レジギガス",
+        "url": "https://yakkun.com/sv/zukan/n486"
+    },
+    {
+        "dex_no": 487,
+        "pokemon_name": "ギラティナ(アナザー)",
+        "url": "https://yakkun.com/sv/zukan/n487"
+    },
+    {
+        "dex_no": 487,
+        "pokemon_name": "ギラティナ(オリジン)",
+        "url": "https://yakkun.com/sv/zukan/n487o"
+    },
+    {
+        "dex_no": 488,
+        "pokemon_name": "クレセリア",
+        "url": "https://yakkun.com/sv/zukan/n488"
+    },
+    {
+        "dex_no": 489,
+        "pokemon_name": "フィオネ",
+        "url": "https://yakkun.com/sv/zukan/n489"
+    },
+    {
+        "dex_no": 490,
+        "pokemon_name": "マナフィ",
+        "url": "https://yakkun.com/sv/zukan/n490"
+    },
+    {
+        "dex_no": 491,
+        "pokemon_name": "ダークライ",
+        "url": "https://yakkun.com/sv/zukan/n491"
+    },
+    {
+        "dex_no": 492,
+        "pokemon_name": "シェイミ(ランド)",
+        "url": "https://yakkun.com/sv/zukan/n492"
+    },
+    {
+        "dex_no": 492,
+        "pokemon_name": "シェイミ(スカイ)",
+        "url": "https://yakkun.com/sv/zukan/n492s"
+    },
+    {
+        "dex_no": 493,
+        "pokemon_name": "アルセウス",
+        "url": "https://yakkun.com/sv/zukan/n493"
+    },
+    {
+        "dex_no": 494,
+        "pokemon_name": "ビクティニ",
+        "url": "https://yakkun.com/sv/zukan/n494"
+    },
+    {
+        "dex_no": 495,
+        "pokemon_name": "ツタージャ",
+        "url": "https://yakkun.com/sv/zukan/n495"
+    },
+    {
+        "dex_no": 496,
+        "pokemon_name": "ジャノビー",
+        "url": "https://yakkun.com/sv/zukan/n496"
+    },
+    {
+        "dex_no": 497,
+        "pokemon_name": "ジャローダ",
+        "url": "https://yakkun.com/sv/zukan/n497"
+    },
+    {
+        "dex_no": 498,
+        "pokemon_name": "ポカブ",
+        "url": "https://yakkun.com/sv/zukan/n498"
+    },
+    {
+        "dex_no": 499,
+        "pokemon_name": "チャオブー",
+        "url": "https://yakkun.com/sv/zukan/n499"
+    },
+    {
+        "dex_no": 500,
+        "pokemon_name": "エンブオー",
+        "url": "https://yakkun.com/sv/zukan/n500"
+    },
+    {
+        "dex_no": 501,
+        "pokemon_name": "ミジュマル",
+        "url": "https://yakkun.com/sv/zukan/n501"
+    },
+    {
+        "dex_no": 502,
+        "pokemon_name": "フタチマル",
+        "url": "https://yakkun.com/sv/zukan/n502"
+    },
+    {
+        "dex_no": 503,
+        "pokemon_name": "ダイケンキ",
+        "url": "https://yakkun.com/sv/zukan/n503"
+    },
+    {
+        "dex_no": 503,
+        "pokemon_name": "ダイケンキ(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n503h"
+    },
+    {
+        "dex_no": 504,
+        "pokemon_name": "ミネズミ",
+        "url": "https://yakkun.com/sv/zukan/n504"
+    },
+    {
+        "dex_no": 505,
+        "pokemon_name": "ミルホッグ",
+        "url": "https://yakkun.com/sv/zukan/n505"
+    },
+    {
+        "dex_no": 506,
+        "pokemon_name": "ヨーテリー",
+        "url": "https://yakkun.com/sv/zukan/n506"
+    },
+    {
+        "dex_no": 507,
+        "pokemon_name": "ハーデリア",
+        "url": "https://yakkun.com/sv/zukan/n507"
+    },
+    {
+        "dex_no": 508,
+        "pokemon_name": "ムーランド",
+        "url": "https://yakkun.com/sv/zukan/n508"
+    },
+    {
+        "dex_no": 509,
+        "pokemon_name": "チョロネコ",
+        "url": "https://yakkun.com/sv/zukan/n509"
+    },
+    {
+        "dex_no": 510,
+        "pokemon_name": "レパルダス",
+        "url": "https://yakkun.com/sv/zukan/n510"
+    },
+    {
+        "dex_no": 511,
+        "pokemon_name": "ヤナップ",
+        "url": "https://yakkun.com/sv/zukan/n511"
+    },
+    {
+        "dex_no": 512,
+        "pokemon_name": "ヤナッキー",
+        "url": "https://yakkun.com/sv/zukan/n512"
+    },
+    {
+        "dex_no": 513,
+        "pokemon_name": "バオップ",
+        "url": "https://yakkun.com/sv/zukan/n513"
+    },
+    {
+        "dex_no": 514,
+        "pokemon_name": "バオッキー",
+        "url": "https://yakkun.com/sv/zukan/n514"
+    },
+    {
+        "dex_no": 515,
+        "pokemon_name": "ヒヤップ",
+        "url": "https://yakkun.com/sv/zukan/n515"
+    },
+    {
+        "dex_no": 516,
+        "pokemon_name": "ヒヤッキー",
+        "url": "https://yakkun.com/sv/zukan/n516"
+    },
+    {
+        "dex_no": 517,
+        "pokemon_name": "ムンナ",
+        "url": "https://yakkun.com/sv/zukan/n517"
+    },
+    {
+        "dex_no": 518,
+        "pokemon_name": "ムシャーナ",
+        "url": "https://yakkun.com/sv/zukan/n518"
+    },
+    {
+        "dex_no": 519,
+        "pokemon_name": "マメパト",
+        "url": "https://yakkun.com/sv/zukan/n519"
+    },
+    {
+        "dex_no": 520,
+        "pokemon_name": "ハトーボー",
+        "url": "https://yakkun.com/sv/zukan/n520"
+    },
+    {
+        "dex_no": 521,
+        "pokemon_name": "ケンホロウ",
+        "url": "https://yakkun.com/sv/zukan/n521"
+    },
+    {
+        "dex_no": 522,
+        "pokemon_name": "シママ",
+        "url": "https://yakkun.com/sv/zukan/n522"
+    },
+    {
+        "dex_no": 523,
+        "pokemon_name": "ゼブライカ",
+        "url": "https://yakkun.com/sv/zukan/n523"
+    },
+    {
+        "dex_no": 524,
+        "pokemon_name": "ダンゴロ",
+        "url": "https://yakkun.com/sv/zukan/n524"
+    },
+    {
+        "dex_no": 525,
+        "pokemon_name": "ガントル",
+        "url": "https://yakkun.com/sv/zukan/n525"
+    },
+    {
+        "dex_no": 526,
+        "pokemon_name": "ギガイアス",
+        "url": "https://yakkun.com/sv/zukan/n526"
+    },
+    {
+        "dex_no": 527,
+        "pokemon_name": "コロモリ",
+        "url": "https://yakkun.com/sv/zukan/n527"
+    },
+    {
+        "dex_no": 528,
+        "pokemon_name": "ココロモリ",
+        "url": "https://yakkun.com/sv/zukan/n528"
+    },
+    {
+        "dex_no": 529,
+        "pokemon_name": "モグリュー",
+        "url": "https://yakkun.com/sv/zukan/n529"
+    },
+    {
+        "dex_no": 530,
+        "pokemon_name": "ドリュウズ",
+        "url": "https://yakkun.com/sv/zukan/n530"
+    },
+    {
+        "dex_no": 531,
+        "pokemon_name": "タブンネ",
+        "url": "https://yakkun.com/sv/zukan/n531"
+    },
+    {
+        "dex_no": 531,
+        "pokemon_name": "メガタブンネ",
+        "url": "https://yakkun.com/sv/zukan/n531m"
+    },
+    {
+        "dex_no": 532,
+        "pokemon_name": "ドッコラー",
+        "url": "https://yakkun.com/sv/zukan/n532"
+    },
+    {
+        "dex_no": 533,
+        "pokemon_name": "ドテッコツ",
+        "url": "https://yakkun.com/sv/zukan/n533"
+    },
+    {
+        "dex_no": 534,
+        "pokemon_name": "ローブシン",
+        "url": "https://yakkun.com/sv/zukan/n534"
+    },
+    {
+        "dex_no": 535,
+        "pokemon_name": "オタマロ",
+        "url": "https://yakkun.com/sv/zukan/n535"
+    },
+    {
+        "dex_no": 536,
+        "pokemon_name": "ガマガル",
+        "url": "https://yakkun.com/sv/zukan/n536"
+    },
+    {
+        "dex_no": 537,
+        "pokemon_name": "ガマゲロゲ",
+        "url": "https://yakkun.com/sv/zukan/n537"
+    },
+    {
+        "dex_no": 538,
+        "pokemon_name": "ナゲキ",
+        "url": "https://yakkun.com/sv/zukan/n538"
+    },
+    {
+        "dex_no": 539,
+        "pokemon_name": "ダゲキ",
+        "url": "https://yakkun.com/sv/zukan/n539"
+    },
+    {
+        "dex_no": 540,
+        "pokemon_name": "クルミル",
+        "url": "https://yakkun.com/sv/zukan/n540"
+    },
+    {
+        "dex_no": 541,
+        "pokemon_name": "クルマユ",
+        "url": "https://yakkun.com/sv/zukan/n541"
+    },
+    {
+        "dex_no": 542,
+        "pokemon_name": "ハハコモリ",
+        "url": "https://yakkun.com/sv/zukan/n542"
+    },
+    {
+        "dex_no": 543,
+        "pokemon_name": "フシデ",
+        "url": "https://yakkun.com/sv/zukan/n543"
+    },
+    {
+        "dex_no": 544,
+        "pokemon_name": "ホイーガ",
+        "url": "https://yakkun.com/sv/zukan/n544"
+    },
+    {
+        "dex_no": 545,
+        "pokemon_name": "ペンドラー",
+        "url": "https://yakkun.com/sv/zukan/n545"
+    },
+    {
+        "dex_no": 546,
+        "pokemon_name": "モンメン",
+        "url": "https://yakkun.com/sv/zukan/n546"
+    },
+    {
+        "dex_no": 547,
+        "pokemon_name": "エルフーン",
+        "url": "https://yakkun.com/sv/zukan/n547"
+    },
+    {
+        "dex_no": 548,
+        "pokemon_name": "チュリネ",
+        "url": "https://yakkun.com/sv/zukan/n548"
+    },
+    {
+        "dex_no": 549,
+        "pokemon_name": "ドレディア",
+        "url": "https://yakkun.com/sv/zukan/n549"
+    },
+    {
+        "dex_no": 549,
+        "pokemon_name": "ドレディア(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n549h"
+    },
+    {
+        "dex_no": 550,
+        "pokemon_name": "バスラオ(赤)",
+        "url": "https://yakkun.com/sv/zukan/n550"
+    },
+    {
+        "dex_no": 550,
+        "pokemon_name": "バスラオ(青)",
+        "url": "https://yakkun.com/sv/zukan/n550f"
+    },
+    {
+        "dex_no": 550,
+        "pokemon_name": "バスラオ(白)",
+        "url": "https://yakkun.com/sv/zukan/n550w"
+    },
+    {
+        "dex_no": 551,
+        "pokemon_name": "メグロコ",
+        "url": "https://yakkun.com/sv/zukan/n551"
+    },
+    {
+        "dex_no": 552,
+        "pokemon_name": "ワルビル",
+        "url": "https://yakkun.com/sv/zukan/n552"
+    },
+    {
+        "dex_no": 553,
+        "pokemon_name": "ワルビアル",
+        "url": "https://yakkun.com/sv/zukan/n553"
+    },
+    {
+        "dex_no": 554,
+        "pokemon_name": "ダルマッカ",
+        "url": "https://yakkun.com/sv/zukan/n554"
+    },
+    {
+        "dex_no": 554,
+        "pokemon_name": "ダルマッカ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n554g"
+    },
+    {
+        "dex_no": 555,
+        "pokemon_name": "ヒヒダルマ",
+        "url": "https://yakkun.com/sv/zukan/n555"
+    },
+    {
+        "dex_no": 555,
+        "pokemon_name": "ヒヒダルマ(ダルマ)",
+        "url": "https://yakkun.com/sv/zukan/n555f"
+    },
+    {
+        "dex_no": 555,
+        "pokemon_name": "ヒヒダルマ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n555g"
+    },
+    {
+        "dex_no": 555,
+        "pokemon_name": "ヒヒダルマ(ダルマ・ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n555h"
+    },
+    {
+        "dex_no": 556,
+        "pokemon_name": "マラカッチ",
+        "url": "https://yakkun.com/sv/zukan/n556"
+    },
+    {
+        "dex_no": 557,
+        "pokemon_name": "イシズマイ",
+        "url": "https://yakkun.com/sv/zukan/n557"
+    },
+    {
+        "dex_no": 558,
+        "pokemon_name": "イワパレス",
+        "url": "https://yakkun.com/sv/zukan/n558"
+    },
+    {
+        "dex_no": 559,
+        "pokemon_name": "ズルッグ",
+        "url": "https://yakkun.com/sv/zukan/n559"
+    },
+    {
+        "dex_no": 560,
+        "pokemon_name": "ズルズキン",
+        "url": "https://yakkun.com/sv/zukan/n560"
+    },
+    {
+        "dex_no": 561,
+        "pokemon_name": "シンボラー",
+        "url": "https://yakkun.com/sv/zukan/n561"
+    },
+    {
+        "dex_no": 562,
+        "pokemon_name": "デスマス",
+        "url": "https://yakkun.com/sv/zukan/n562"
+    },
+    {
+        "dex_no": 562,
+        "pokemon_name": "デスマス(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n562g"
+    },
+    {
+        "dex_no": 563,
+        "pokemon_name": "デスカーン",
+        "url": "https://yakkun.com/sv/zukan/n563"
+    },
+    {
+        "dex_no": 564,
+        "pokemon_name": "プロトーガ",
+        "url": "https://yakkun.com/sv/zukan/n564"
+    },
+    {
+        "dex_no": 565,
+        "pokemon_name": "アバゴーラ",
+        "url": "https://yakkun.com/sv/zukan/n565"
+    },
+    {
+        "dex_no": 566,
+        "pokemon_name": "アーケン",
+        "url": "https://yakkun.com/sv/zukan/n566"
+    },
+    {
+        "dex_no": 567,
+        "pokemon_name": "アーケオス",
+        "url": "https://yakkun.com/sv/zukan/n567"
+    },
+    {
+        "dex_no": 568,
+        "pokemon_name": "ヤブクロン",
+        "url": "https://yakkun.com/sv/zukan/n568"
+    },
+    {
+        "dex_no": 569,
+        "pokemon_name": "ダストダス",
+        "url": "https://yakkun.com/sv/zukan/n569"
+    },
+    {
+        "dex_no": 570,
+        "pokemon_name": "ゾロア",
+        "url": "https://yakkun.com/sv/zukan/n570"
+    },
+    {
+        "dex_no": 570,
+        "pokemon_name": "ゾロア(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n570h"
+    },
+    {
+        "dex_no": 571,
+        "pokemon_name": "ゾロアーク",
+        "url": "https://yakkun.com/sv/zukan/n571"
+    },
+    {
+        "dex_no": 571,
+        "pokemon_name": "ゾロアーク(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n571h"
+    },
+    {
+        "dex_no": 572,
+        "pokemon_name": "チラーミィ",
+        "url": "https://yakkun.com/sv/zukan/n572"
+    },
+    {
+        "dex_no": 573,
+        "pokemon_name": "チラチーノ",
+        "url": "https://yakkun.com/sv/zukan/n573"
+    },
+    {
+        "dex_no": 574,
+        "pokemon_name": "ゴチム",
+        "url": "https://yakkun.com/sv/zukan/n574"
+    },
+    {
+        "dex_no": 575,
+        "pokemon_name": "ゴチミル",
+        "url": "https://yakkun.com/sv/zukan/n575"
+    },
+    {
+        "dex_no": 576,
+        "pokemon_name": "ゴチルゼル",
+        "url": "https://yakkun.com/sv/zukan/n576"
+    },
+    {
+        "dex_no": 577,
+        "pokemon_name": "ユニラン",
+        "url": "https://yakkun.com/sv/zukan/n577"
+    },
+    {
+        "dex_no": 578,
+        "pokemon_name": "ダブラン",
+        "url": "https://yakkun.com/sv/zukan/n578"
+    },
+    {
+        "dex_no": 579,
+        "pokemon_name": "ランクルス",
+        "url": "https://yakkun.com/sv/zukan/n579"
+    },
+    {
+        "dex_no": 580,
+        "pokemon_name": "コアルヒー",
+        "url": "https://yakkun.com/sv/zukan/n580"
+    },
+    {
+        "dex_no": 581,
+        "pokemon_name": "スワンナ",
+        "url": "https://yakkun.com/sv/zukan/n581"
+    },
+    {
+        "dex_no": 582,
+        "pokemon_name": "バニプッチ",
+        "url": "https://yakkun.com/sv/zukan/n582"
+    },
+    {
+        "dex_no": 583,
+        "pokemon_name": "バニリッチ",
+        "url": "https://yakkun.com/sv/zukan/n583"
+    },
+    {
+        "dex_no": 584,
+        "pokemon_name": "バイバニラ",
+        "url": "https://yakkun.com/sv/zukan/n584"
+    },
+    {
+        "dex_no": 585,
+        "pokemon_name": "シキジカ",
+        "url": "https://yakkun.com/sv/zukan/n585"
+    },
+    {
+        "dex_no": 586,
+        "pokemon_name": "メブキジカ",
+        "url": "https://yakkun.com/sv/zukan/n586"
+    },
+    {
+        "dex_no": 587,
+        "pokemon_name": "エモンガ",
+        "url": "https://yakkun.com/sv/zukan/n587"
+    },
+    {
+        "dex_no": 588,
+        "pokemon_name": "カブルモ",
+        "url": "https://yakkun.com/sv/zukan/n588"
+    },
+    {
+        "dex_no": 589,
+        "pokemon_name": "シュバルゴ",
+        "url": "https://yakkun.com/sv/zukan/n589"
+    },
+    {
+        "dex_no": 590,
+        "pokemon_name": "タマゲタケ",
+        "url": "https://yakkun.com/sv/zukan/n590"
+    },
+    {
+        "dex_no": 591,
+        "pokemon_name": "モロバレル",
+        "url": "https://yakkun.com/sv/zukan/n591"
+    },
+    {
+        "dex_no": 592,
+        "pokemon_name": "プルリル",
+        "url": "https://yakkun.com/sv/zukan/n592"
+    },
+    {
+        "dex_no": 593,
+        "pokemon_name": "ブルンゲル",
+        "url": "https://yakkun.com/sv/zukan/n593"
+    },
+    {
+        "dex_no": 594,
+        "pokemon_name": "ママンボウ",
+        "url": "https://yakkun.com/sv/zukan/n594"
+    },
+    {
+        "dex_no": 595,
+        "pokemon_name": "バチュル",
+        "url": "https://yakkun.com/sv/zukan/n595"
+    },
+    {
+        "dex_no": 596,
+        "pokemon_name": "デンチュラ",
+        "url": "https://yakkun.com/sv/zukan/n596"
+    },
+    {
+        "dex_no": 597,
+        "pokemon_name": "テッシード",
+        "url": "https://yakkun.com/sv/zukan/n597"
+    },
+    {
+        "dex_no": 598,
+        "pokemon_name": "ナットレイ",
+        "url": "https://yakkun.com/sv/zukan/n598"
+    },
+    {
+        "dex_no": 599,
+        "pokemon_name": "ギアル",
+        "url": "https://yakkun.com/sv/zukan/n599"
+    },
+    {
+        "dex_no": 600,
+        "pokemon_name": "ギギアル",
+        "url": "https://yakkun.com/sv/zukan/n600"
+    },
+    {
+        "dex_no": 601,
+        "pokemon_name": "ギギギアル",
+        "url": "https://yakkun.com/sv/zukan/n601"
+    },
+    {
+        "dex_no": 602,
+        "pokemon_name": "シビシラス",
+        "url": "https://yakkun.com/sv/zukan/n602"
+    },
+    {
+        "dex_no": 603,
+        "pokemon_name": "シビビール",
+        "url": "https://yakkun.com/sv/zukan/n603"
+    },
+    {
+        "dex_no": 604,
+        "pokemon_name": "シビルドン",
+        "url": "https://yakkun.com/sv/zukan/n604"
+    },
+    {
+        "dex_no": 605,
+        "pokemon_name": "リグレー",
+        "url": "https://yakkun.com/sv/zukan/n605"
+    },
+    {
+        "dex_no": 606,
+        "pokemon_name": "オーベム",
+        "url": "https://yakkun.com/sv/zukan/n606"
+    },
+    {
+        "dex_no": 607,
+        "pokemon_name": "ヒトモシ",
+        "url": "https://yakkun.com/sv/zukan/n607"
+    },
+    {
+        "dex_no": 608,
+        "pokemon_name": "ランプラー",
+        "url": "https://yakkun.com/sv/zukan/n608"
+    },
+    {
+        "dex_no": 609,
+        "pokemon_name": "シャンデラ",
+        "url": "https://yakkun.com/sv/zukan/n609"
+    },
+    {
+        "dex_no": 610,
+        "pokemon_name": "キバゴ",
+        "url": "https://yakkun.com/sv/zukan/n610"
+    },
+    {
+        "dex_no": 611,
+        "pokemon_name": "オノンド",
+        "url": "https://yakkun.com/sv/zukan/n611"
+    },
+    {
+        "dex_no": 612,
+        "pokemon_name": "オノノクス",
+        "url": "https://yakkun.com/sv/zukan/n612"
+    },
+    {
+        "dex_no": 613,
+        "pokemon_name": "クマシュン",
+        "url": "https://yakkun.com/sv/zukan/n613"
+    },
+    {
+        "dex_no": 614,
+        "pokemon_name": "ツンベアー",
+        "url": "https://yakkun.com/sv/zukan/n614"
+    },
+    {
+        "dex_no": 615,
+        "pokemon_name": "フリージオ",
+        "url": "https://yakkun.com/sv/zukan/n615"
+    },
+    {
+        "dex_no": 616,
+        "pokemon_name": "チョボマキ",
+        "url": "https://yakkun.com/sv/zukan/n616"
+    },
+    {
+        "dex_no": 617,
+        "pokemon_name": "アギルダー",
+        "url": "https://yakkun.com/sv/zukan/n617"
+    },
+    {
+        "dex_no": 618,
+        "pokemon_name": "マッギョ",
+        "url": "https://yakkun.com/sv/zukan/n618"
+    },
+    {
+        "dex_no": 618,
+        "pokemon_name": "マッギョ(ガラル)",
+        "url": "https://yakkun.com/sv/zukan/n618g"
+    },
+    {
+        "dex_no": 619,
+        "pokemon_name": "コジョフー",
+        "url": "https://yakkun.com/sv/zukan/n619"
+    },
+    {
+        "dex_no": 620,
+        "pokemon_name": "コジョンド",
+        "url": "https://yakkun.com/sv/zukan/n620"
+    },
+    {
+        "dex_no": 621,
+        "pokemon_name": "クリムガン",
+        "url": "https://yakkun.com/sv/zukan/n621"
+    },
+    {
+        "dex_no": 622,
+        "pokemon_name": "ゴビット",
+        "url": "https://yakkun.com/sv/zukan/n622"
+    },
+    {
+        "dex_no": 623,
+        "pokemon_name": "ゴルーグ",
+        "url": "https://yakkun.com/sv/zukan/n623"
+    },
+    {
+        "dex_no": 624,
+        "pokemon_name": "コマタナ",
+        "url": "https://yakkun.com/sv/zukan/n624"
+    },
+    {
+        "dex_no": 625,
+        "pokemon_name": "キリキザン",
+        "url": "https://yakkun.com/sv/zukan/n625"
+    },
+    {
+        "dex_no": 626,
+        "pokemon_name": "バッフロン",
+        "url": "https://yakkun.com/sv/zukan/n626"
+    },
+    {
+        "dex_no": 627,
+        "pokemon_name": "ワシボン",
+        "url": "https://yakkun.com/sv/zukan/n627"
+    },
+    {
+        "dex_no": 628,
+        "pokemon_name": "ウォーグル",
+        "url": "https://yakkun.com/sv/zukan/n628"
+    },
+    {
+        "dex_no": 628,
+        "pokemon_name": "ウォーグル(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n628h"
+    },
+    {
+        "dex_no": 629,
+        "pokemon_name": "バルチャイ",
+        "url": "https://yakkun.com/sv/zukan/n629"
+    },
+    {
+        "dex_no": 630,
+        "pokemon_name": "バルジーナ",
+        "url": "https://yakkun.com/sv/zukan/n630"
+    },
+    {
+        "dex_no": 631,
+        "pokemon_name": "クイタラン",
+        "url": "https://yakkun.com/sv/zukan/n631"
+    },
+    {
+        "dex_no": 632,
+        "pokemon_name": "アイアント",
+        "url": "https://yakkun.com/sv/zukan/n632"
+    },
+    {
+        "dex_no": 633,
+        "pokemon_name": "モノズ",
+        "url": "https://yakkun.com/sv/zukan/n633"
+    },
+    {
+        "dex_no": 634,
+        "pokemon_name": "ジヘッド",
+        "url": "https://yakkun.com/sv/zukan/n634"
+    },
+    {
+        "dex_no": 635,
+        "pokemon_name": "サザンドラ",
+        "url": "https://yakkun.com/sv/zukan/n635"
+    },
+    {
+        "dex_no": 636,
+        "pokemon_name": "メラルバ",
+        "url": "https://yakkun.com/sv/zukan/n636"
+    },
+    {
+        "dex_no": 637,
+        "pokemon_name": "ウルガモス",
+        "url": "https://yakkun.com/sv/zukan/n637"
+    },
+    {
+        "dex_no": 638,
+        "pokemon_name": "コバルオン",
+        "url": "https://yakkun.com/sv/zukan/n638"
+    },
+    {
+        "dex_no": 639,
+        "pokemon_name": "テラキオン",
+        "url": "https://yakkun.com/sv/zukan/n639"
+    },
+    {
+        "dex_no": 640,
+        "pokemon_name": "ビリジオン",
+        "url": "https://yakkun.com/sv/zukan/n640"
+    },
+    {
+        "dex_no": 641,
+        "pokemon_name": "トルネロス(化身)",
+        "url": "https://yakkun.com/sv/zukan/n641"
+    },
+    {
+        "dex_no": 641,
+        "pokemon_name": "トルネロス(霊獣)",
+        "url": "https://yakkun.com/sv/zukan/n641a"
+    },
+    {
+        "dex_no": 642,
+        "pokemon_name": "ボルトロス(化身)",
+        "url": "https://yakkun.com/sv/zukan/n642"
+    },
+    {
+        "dex_no": 642,
+        "pokemon_name": "ボルトロス(霊獣)",
+        "url": "https://yakkun.com/sv/zukan/n642a"
+    },
+    {
+        "dex_no": 643,
+        "pokemon_name": "レシラム",
+        "url": "https://yakkun.com/sv/zukan/n643"
+    },
+    {
+        "dex_no": 644,
+        "pokemon_name": "ゼクロム",
+        "url": "https://yakkun.com/sv/zukan/n644"
+    },
+    {
+        "dex_no": 645,
+        "pokemon_name": "ランドロス(化身)",
+        "url": "https://yakkun.com/sv/zukan/n645"
+    },
+    {
+        "dex_no": 645,
+        "pokemon_name": "ランドロス(霊獣)",
+        "url": "https://yakkun.com/sv/zukan/n645a"
+    },
+    {
+        "dex_no": 646,
+        "pokemon_name": "キュレム",
+        "url": "https://yakkun.com/sv/zukan/n646"
+    },
+    {
+        "dex_no": 646,
+        "pokemon_name": "ホワイトキュレム",
+        "url": "https://yakkun.com/sv/zukan/n646w"
+    },
+    {
+        "dex_no": 646,
+        "pokemon_name": "ブラックキュレム",
+        "url": "https://yakkun.com/sv/zukan/n646b"
+    },
+    {
+        "dex_no": 647,
+        "pokemon_name": "ケルディオ(いつも)",
+        "url": "https://yakkun.com/sv/zukan/n647"
+    },
+    {
+        "dex_no": 647,
+        "pokemon_name": "ケルディオ(覚悟)",
+        "url": "https://yakkun.com/sv/zukan/n647k"
+    },
+    {
+        "dex_no": 648,
+        "pokemon_name": "メロエッタ(ボイス)",
+        "url": "https://yakkun.com/sv/zukan/n648"
+    },
+    {
+        "dex_no": 648,
+        "pokemon_name": "メロエッタ(ステップ)",
+        "url": "https://yakkun.com/sv/zukan/n648f"
+    },
+    {
+        "dex_no": 649,
+        "pokemon_name": "ゲノセクト",
+        "url": "https://yakkun.com/sv/zukan/n649"
+    },
+    {
+        "dex_no": 650,
+        "pokemon_name": "ハリマロン",
+        "url": "https://yakkun.com/sv/zukan/n650"
+    },
+    {
+        "dex_no": 651,
+        "pokemon_name": "ハリボーグ",
+        "url": "https://yakkun.com/sv/zukan/n651"
+    },
+    {
+        "dex_no": 652,
+        "pokemon_name": "ブリガロン",
+        "url": "https://yakkun.com/sv/zukan/n652"
+    },
+    {
+        "dex_no": 653,
+        "pokemon_name": "フォッコ",
+        "url": "https://yakkun.com/sv/zukan/n653"
+    },
+    {
+        "dex_no": 654,
+        "pokemon_name": "テールナー",
+        "url": "https://yakkun.com/sv/zukan/n654"
+    },
+    {
+        "dex_no": 655,
+        "pokemon_name": "マフォクシー",
+        "url": "https://yakkun.com/sv/zukan/n655"
+    },
+    {
+        "dex_no": 656,
+        "pokemon_name": "ケロマツ",
+        "url": "https://yakkun.com/sv/zukan/n656"
+    },
+    {
+        "dex_no": 657,
+        "pokemon_name": "ゲコガシラ",
+        "url": "https://yakkun.com/sv/zukan/n657"
+    },
+    {
+        "dex_no": 658,
+        "pokemon_name": "ゲッコウガ",
+        "url": "https://yakkun.com/sv/zukan/n658"
+    },
+    {
+        "dex_no": 658,
+        "pokemon_name": "サトシゲッコウガ",
+        "url": "https://yakkun.com/sv/zukan/n658f"
+    },
+    {
+        "dex_no": 659,
+        "pokemon_name": "ホルビー",
+        "url": "https://yakkun.com/sv/zukan/n659"
+    },
+    {
+        "dex_no": 660,
+        "pokemon_name": "ホルード",
+        "url": "https://yakkun.com/sv/zukan/n660"
+    },
+    {
+        "dex_no": 661,
+        "pokemon_name": "ヤヤコマ",
+        "url": "https://yakkun.com/sv/zukan/n661"
+    },
+    {
+        "dex_no": 662,
+        "pokemon_name": "ヒノヤコマ",
+        "url": "https://yakkun.com/sv/zukan/n662"
+    },
+    {
+        "dex_no": 663,
+        "pokemon_name": "ファイアロー",
+        "url": "https://yakkun.com/sv/zukan/n663"
+    },
+    {
+        "dex_no": 664,
+        "pokemon_name": "コフキムシ",
+        "url": "https://yakkun.com/sv/zukan/n664"
+    },
+    {
+        "dex_no": 665,
+        "pokemon_name": "コフーライ",
+        "url": "https://yakkun.com/sv/zukan/n665"
+    },
+    {
+        "dex_no": 666,
+        "pokemon_name": "ビビヨン",
+        "url": "https://yakkun.com/sv/zukan/n666"
+    },
+    {
+        "dex_no": 667,
+        "pokemon_name": "シシコ",
+        "url": "https://yakkun.com/sv/zukan/n667"
+    },
+    {
+        "dex_no": 668,
+        "pokemon_name": "カエンジシ",
+        "url": "https://yakkun.com/sv/zukan/n668"
+    },
+    {
+        "dex_no": 669,
+        "pokemon_name": "フラベベ",
+        "url": "https://yakkun.com/sv/zukan/n669"
+    },
+    {
+        "dex_no": 670,
+        "pokemon_name": "フラエッテ",
+        "url": "https://yakkun.com/sv/zukan/n670"
+    },
+    {
+        "dex_no": 671,
+        "pokemon_name": "フラージェス",
+        "url": "https://yakkun.com/sv/zukan/n671"
+    },
+    {
+        "dex_no": 672,
+        "pokemon_name": "メェークル",
+        "url": "https://yakkun.com/sv/zukan/n672"
+    },
+    {
+        "dex_no": 673,
+        "pokemon_name": "ゴーゴート",
+        "url": "https://yakkun.com/sv/zukan/n673"
+    },
+    {
+        "dex_no": 674,
+        "pokemon_name": "ヤンチャム",
+        "url": "https://yakkun.com/sv/zukan/n674"
+    },
+    {
+        "dex_no": 675,
+        "pokemon_name": "ゴロンダ",
+        "url": "https://yakkun.com/sv/zukan/n675"
+    },
+    {
+        "dex_no": 676,
+        "pokemon_name": "トリミアン",
+        "url": "https://yakkun.com/sv/zukan/n676"
+    },
+    {
+        "dex_no": 677,
+        "pokemon_name": "ニャスパー",
+        "url": "https://yakkun.com/sv/zukan/n677"
+    },
+    {
+        "dex_no": 678,
+        "pokemon_name": "ニャオニクス♂",
+        "url": "https://yakkun.com/sv/zukan/n678"
+    },
+    {
+        "dex_no": 678,
+        "pokemon_name": "ニャオニクス♀",
+        "url": "https://yakkun.com/sv/zukan/n678f"
+    },
+    {
+        "dex_no": 679,
+        "pokemon_name": "ヒトツキ",
+        "url": "https://yakkun.com/sv/zukan/n679"
+    },
+    {
+        "dex_no": 680,
+        "pokemon_name": "ニダンギル",
+        "url": "https://yakkun.com/sv/zukan/n680"
+    },
+    {
+        "dex_no": 681,
+        "pokemon_name": "ギルガルド(シールド)",
+        "url": "https://yakkun.com/sv/zukan/n681"
+    },
+    {
+        "dex_no": 681,
+        "pokemon_name": "ギルガルド(ブレード)",
+        "url": "https://yakkun.com/sv/zukan/n681b"
+    },
+    {
+        "dex_no": 682,
+        "pokemon_name": "シュシュプ",
+        "url": "https://yakkun.com/sv/zukan/n682"
+    },
+    {
+        "dex_no": 683,
+        "pokemon_name": "フレフワン",
+        "url": "https://yakkun.com/sv/zukan/n683"
+    },
+    {
+        "dex_no": 684,
+        "pokemon_name": "ペロッパフ",
+        "url": "https://yakkun.com/sv/zukan/n684"
+    },
+    {
+        "dex_no": 685,
+        "pokemon_name": "ペロリーム",
+        "url": "https://yakkun.com/sv/zukan/n685"
+    },
+    {
+        "dex_no": 686,
+        "pokemon_name": "マーイーカ",
+        "url": "https://yakkun.com/sv/zukan/n686"
+    },
+    {
+        "dex_no": 687,
+        "pokemon_name": "カラマネロ",
+        "url": "https://yakkun.com/sv/zukan/n687"
+    },
+    {
+        "dex_no": 688,
+        "pokemon_name": "カメテテ",
+        "url": "https://yakkun.com/sv/zukan/n688"
+    },
+    {
+        "dex_no": 689,
+        "pokemon_name": "ガメノデス",
+        "url": "https://yakkun.com/sv/zukan/n689"
+    },
+    {
+        "dex_no": 690,
+        "pokemon_name": "クズモー",
+        "url": "https://yakkun.com/sv/zukan/n690"
+    },
+    {
+        "dex_no": 691,
+        "pokemon_name": "ドラミドロ",
+        "url": "https://yakkun.com/sv/zukan/n691"
+    },
+    {
+        "dex_no": 692,
+        "pokemon_name": "ウデッポウ",
+        "url": "https://yakkun.com/sv/zukan/n692"
+    },
+    {
+        "dex_no": 693,
+        "pokemon_name": "ブロスター",
+        "url": "https://yakkun.com/sv/zukan/n693"
+    },
+    {
+        "dex_no": 694,
+        "pokemon_name": "エリキテル",
+        "url": "https://yakkun.com/sv/zukan/n694"
+    },
+    {
+        "dex_no": 695,
+        "pokemon_name": "エレザード",
+        "url": "https://yakkun.com/sv/zukan/n695"
+    },
+    {
+        "dex_no": 696,
+        "pokemon_name": "チゴラス",
+        "url": "https://yakkun.com/sv/zukan/n696"
+    },
+    {
+        "dex_no": 697,
+        "pokemon_name": "ガチゴラス",
+        "url": "https://yakkun.com/sv/zukan/n697"
+    },
+    {
+        "dex_no": 698,
+        "pokemon_name": "アマルス",
+        "url": "https://yakkun.com/sv/zukan/n698"
+    },
+    {
+        "dex_no": 699,
+        "pokemon_name": "アマルルガ",
+        "url": "https://yakkun.com/sv/zukan/n699"
+    },
+    {
+        "dex_no": 700,
+        "pokemon_name": "ニンフィア",
+        "url": "https://yakkun.com/sv/zukan/n700"
+    },
+    {
+        "dex_no": 701,
+        "pokemon_name": "ルチャブル",
+        "url": "https://yakkun.com/sv/zukan/n701"
+    },
+    {
+        "dex_no": 702,
+        "pokemon_name": "デデンネ",
+        "url": "https://yakkun.com/sv/zukan/n702"
+    },
+    {
+        "dex_no": 703,
+        "pokemon_name": "メレシー",
+        "url": "https://yakkun.com/sv/zukan/n703"
+    },
+    {
+        "dex_no": 704,
+        "pokemon_name": "ヌメラ",
+        "url": "https://yakkun.com/sv/zukan/n704"
+    },
+    {
+        "dex_no": 705,
+        "pokemon_name": "ヌメイル",
+        "url": "https://yakkun.com/sv/zukan/n705"
+    },
+    {
+        "dex_no": 705,
+        "pokemon_name": "ヌメイル(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n705h"
+    },
+    {
+        "dex_no": 706,
+        "pokemon_name": "ヌメルゴン",
+        "url": "https://yakkun.com/sv/zukan/n706"
+    },
+    {
+        "dex_no": 706,
+        "pokemon_name": "ヌメルゴン(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n706h"
+    },
+    {
+        "dex_no": 707,
+        "pokemon_name": "クレッフィ",
+        "url": "https://yakkun.com/sv/zukan/n707"
+    },
+    {
+        "dex_no": 708,
+        "pokemon_name": "ボクレー",
+        "url": "https://yakkun.com/sv/zukan/n708"
+    },
+    {
+        "dex_no": 709,
+        "pokemon_name": "オーロット",
+        "url": "https://yakkun.com/sv/zukan/n709"
+    },
+    {
+        "dex_no": 710,
+        "pokemon_name": "バケッチャ(普通)",
+        "url": "https://yakkun.com/sv/zukan/n710"
+    },
+    {
+        "dex_no": 710,
+        "pokemon_name": "バケッチャ(小)",
+        "url": "https://yakkun.com/sv/zukan/n710s"
+    },
+    {
+        "dex_no": 710,
+        "pokemon_name": "バケッチャ(大)",
+        "url": "https://yakkun.com/sv/zukan/n710l"
+    },
+    {
+        "dex_no": 710,
+        "pokemon_name": "バケッチャ(特大)",
+        "url": "https://yakkun.com/sv/zukan/n710k"
+    },
+    {
+        "dex_no": 711,
+        "pokemon_name": "パンプジン(普通)",
+        "url": "https://yakkun.com/sv/zukan/n711"
+    },
+    {
+        "dex_no": 711,
+        "pokemon_name": "パンプジン(小)",
+        "url": "https://yakkun.com/sv/zukan/n711s"
+    },
+    {
+        "dex_no": 711,
+        "pokemon_name": "パンプジン(大)",
+        "url": "https://yakkun.com/sv/zukan/n711l"
+    },
+    {
+        "dex_no": 711,
+        "pokemon_name": "パンプジン(特大)",
+        "url": "https://yakkun.com/sv/zukan/n711k"
+    },
+    {
+        "dex_no": 712,
+        "pokemon_name": "カチコール",
+        "url": "https://yakkun.com/sv/zukan/n712"
+    },
+    {
+        "dex_no": 713,
+        "pokemon_name": "クレベース",
+        "url": "https://yakkun.com/sv/zukan/n713"
+    },
+    {
+        "dex_no": 713,
+        "pokemon_name": "クレベース(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n713h"
+    },
+    {
+        "dex_no": 714,
+        "pokemon_name": "オンバット",
+        "url": "https://yakkun.com/sv/zukan/n714"
+    },
+    {
+        "dex_no": 715,
+        "pokemon_name": "オンバーン",
+        "url": "https://yakkun.com/sv/zukan/n715"
+    },
+    {
+        "dex_no": 716,
+        "pokemon_name": "ゼルネアス",
+        "url": "https://yakkun.com/sv/zukan/n716"
+    },
+    {
+        "dex_no": 717,
+        "pokemon_name": "イベルタル",
+        "url": "https://yakkun.com/sv/zukan/n717"
+    },
+    {
+        "dex_no": 718,
+        "pokemon_name": "ジガルデ(50%)",
+        "url": "https://yakkun.com/sv/zukan/n718"
+    },
+    {
+        "dex_no": 718,
+        "pokemon_name": "ジガルデ(10%)",
+        "url": "https://yakkun.com/sv/zukan/n718t"
+    },
+    {
+        "dex_no": 718,
+        "pokemon_name": "ジガルデ(パーフェクト)",
+        "url": "https://yakkun.com/sv/zukan/n718c"
+    },
+    {
+        "dex_no": 719,
+        "pokemon_name": "ディアンシー",
+        "url": "https://yakkun.com/sv/zukan/n719"
+    },
+    {
+        "dex_no": 719,
+        "pokemon_name": "メガディアンシー",
+        "url": "https://yakkun.com/sv/zukan/n719m"
+    },
+    {
+        "dex_no": 720,
+        "pokemon_name": "フーパ(いましめ)",
+        "url": "https://yakkun.com/sv/zukan/n720"
+    },
+    {
+        "dex_no": 720,
+        "pokemon_name": "フーパ(ときはな)",
+        "url": "https://yakkun.com/sv/zukan/n720u"
+    },
+    {
+        "dex_no": 721,
+        "pokemon_name": "ボルケニオン",
+        "url": "https://yakkun.com/sv/zukan/n721"
+    },
+    {
+        "dex_no": 722,
+        "pokemon_name": "モクロー",
+        "url": "https://yakkun.com/sv/zukan/n722"
+    },
+    {
+        "dex_no": 723,
+        "pokemon_name": "フクスロー",
+        "url": "https://yakkun.com/sv/zukan/n723"
+    },
+    {
+        "dex_no": 724,
+        "pokemon_name": "ジュナイパー",
+        "url": "https://yakkun.com/sv/zukan/n724"
+    },
+    {
+        "dex_no": 724,
+        "pokemon_name": "ジュナイパー(ヒスイ)",
+        "url": "https://yakkun.com/sv/zukan/n724h"
+    },
+    {
+        "dex_no": 725,
+        "pokemon_name": "ニャビー",
+        "url": "https://yakkun.com/sv/zukan/n725"
+    },
+    {
+        "dex_no": 726,
+        "pokemon_name": "ニャヒート",
+        "url": "https://yakkun.com/sv/zukan/n726"
+    },
+    {
+        "dex_no": 727,
+        "pokemon_name": "ガオガエン",
+        "url": "https://yakkun.com/sv/zukan/n727"
+    },
+    {
+        "dex_no": 728,
+        "pokemon_name": "アシマリ",
+        "url": "https://yakkun.com/sv/zukan/n728"
+    },
+    {
+        "dex_no": 729,
+        "pokemon_name": "オシャマリ",
+        "url": "https://yakkun.com/sv/zukan/n729"
+    },
+    {
+        "dex_no": 730,
+        "pokemon_name": "アシレーヌ",
+        "url": "https://yakkun.com/sv/zukan/n730"
+    },
+    {
+        "dex_no": 731,
+        "pokemon_name": "ツツケラ",
+        "url": "https://yakkun.com/sv/zukan/n731"
+    },
+    {
+        "dex_no": 732,
+        "pokemon_name": "ケララッパ",
+        "url": "https://yakkun.com/sv/zukan/n732"
+    },
+    {
+        "dex_no": 733,
+        "pokemon_name": "ドデカバシ",
+        "url": "https://yakkun.com/sv/zukan/n733"
+    },
+    {
+        "dex_no": 734,
+        "pokemon_name": "ヤングース",
+        "url": "https://yakkun.com/sv/zukan/n734"
+    },
+    {
+        "dex_no": 735,
+        "pokemon_name": "デカグース",
+        "url": "https://yakkun.com/sv/zukan/n735"
+    },
+    {
+        "dex_no": 736,
+        "pokemon_name": "アゴジムシ",
+        "url": "https://yakkun.com/sv/zukan/n736"
+    },
+    {
+        "dex_no": 737,
+        "pokemon_name": "デンヂムシ",
+        "url": "https://yakkun.com/sv/zukan/n737"
+    },
+    {
+        "dex_no": 738,
+        "pokemon_name": "クワガノン",
+        "url": "https://yakkun.com/sv/zukan/n738"
+    },
+    {
+        "dex_no": 739,
+        "pokemon_name": "マケンカニ",
+        "url": "https://yakkun.com/sv/zukan/n739"
+    },
+    {
+        "dex_no": 740,
+        "pokemon_name": "ケケンカニ",
+        "url": "https://yakkun.com/sv/zukan/n740"
+    },
+    {
+        "dex_no": 741,
+        "pokemon_name": "オドリドリ(めらめら)",
+        "url": "https://yakkun.com/sv/zukan/n741"
+    },
+    {
+        "dex_no": 741,
+        "pokemon_name": "オドリドリ(ぱちぱち)",
+        "url": "https://yakkun.com/sv/zukan/n741p"
+    },
+    {
+        "dex_no": 741,
+        "pokemon_name": "オドリドリ(ふらふら)",
+        "url": "https://yakkun.com/sv/zukan/n741f"
+    },
+    {
+        "dex_no": 741,
+        "pokemon_name": "オドリドリ(まいまい)",
+        "url": "https://yakkun.com/sv/zukan/n741m"
+    },
+    {
+        "dex_no": 742,
+        "pokemon_name": "アブリー",
+        "url": "https://yakkun.com/sv/zukan/n742"
+    },
+    {
+        "dex_no": 743,
+        "pokemon_name": "アブリボン",
+        "url": "https://yakkun.com/sv/zukan/n743"
+    },
+    {
+        "dex_no": 744,
+        "pokemon_name": "イワンコ",
+        "url": "https://yakkun.com/sv/zukan/n744"
+    },
+    {
+        "dex_no": 745,
+        "pokemon_name": "ルガルガン(まひる)",
+        "url": "https://yakkun.com/sv/zukan/n745"
+    },
+    {
+        "dex_no": 745,
+        "pokemon_name": "ルガルガン(まよなか)",
+        "url": "https://yakkun.com/sv/zukan/n745f"
+    },
+    {
+        "dex_no": 745,
+        "pokemon_name": "ルガルガン(たそがれ)",
+        "url": "https://yakkun.com/sv/zukan/n745d"
+    },
+    {
+        "dex_no": 746,
+        "pokemon_name": "ヨワシ(単独)",
+        "url": "https://yakkun.com/sv/zukan/n746"
+    },
+    {
+        "dex_no": 746,
+        "pokemon_name": "ヨワシ(群れ)",
+        "url": "https://yakkun.com/sv/zukan/n746f"
+    },
+    {
+        "dex_no": 747,
+        "pokemon_name": "ヒドイデ",
+        "url": "https://yakkun.com/sv/zukan/n747"
+    },
+    {
+        "dex_no": 748,
+        "pokemon_name": "ドヒドイデ",
+        "url": "https://yakkun.com/sv/zukan/n748"
+    },
+    {
+        "dex_no": 749,
+        "pokemon_name": "ドロバンコ",
+        "url": "https://yakkun.com/sv/zukan/n749"
+    },
+    {
+        "dex_no": 750,
+        "pokemon_name": "バンバドロ",
+        "url": "https://yakkun.com/sv/zukan/n750"
+    },
+    {
+        "dex_no": 751,
+        "pokemon_name": "シズクモ",
+        "url": "https://yakkun.com/sv/zukan/n751"
+    },
+    {
+        "dex_no": 752,
+        "pokemon_name": "オニシズクモ",
+        "url": "https://yakkun.com/sv/zukan/n752"
+    },
+    {
+        "dex_no": 753,
+        "pokemon_name": "カリキリ",
+        "url": "https://yakkun.com/sv/zukan/n753"
+    },
+    {
+        "dex_no": 754,
+        "pokemon_name": "ラランテス",
+        "url": "https://yakkun.com/sv/zukan/n754"
+    },
+    {
+        "dex_no": 755,
+        "pokemon_name": "ネマシュ",
+        "url": "https://yakkun.com/sv/zukan/n755"
+    },
+    {
+        "dex_no": 756,
+        "pokemon_name": "マシェード",
+        "url": "https://yakkun.com/sv/zukan/n756"
+    },
+    {
+        "dex_no": 757,
+        "pokemon_name": "ヤトウモリ",
+        "url": "https://yakkun.com/sv/zukan/n757"
+    },
+    {
+        "dex_no": 758,
+        "pokemon_name": "エンニュート",
+        "url": "https://yakkun.com/sv/zukan/n758"
+    },
+    {
+        "dex_no": 759,
+        "pokemon_name": "ヌイコグマ",
+        "url": "https://yakkun.com/sv/zukan/n759"
+    },
+    {
+        "dex_no": 760,
+        "pokemon_name": "キテルグマ",
+        "url": "https://yakkun.com/sv/zukan/n760"
+    },
+    {
+        "dex_no": 761,
+        "pokemon_name": "アマカジ",
+        "url": "https://yakkun.com/sv/zukan/n761"
+    },
+    {
+        "dex_no": 762,
+        "pokemon_name": "アママイコ",
+        "url": "https://yakkun.com/sv/zukan/n762"
+    },
+    {
+        "dex_no": 763,
+        "pokemon_name": "アマージョ",
+        "url": "https://yakkun.com/sv/zukan/n763"
+    },
+    {
+        "dex_no": 764,
+        "pokemon_name": "キュワワー",
+        "url": "https://yakkun.com/sv/zukan/n764"
+    },
+    {
+        "dex_no": 765,
+        "pokemon_name": "ヤレユータン",
+        "url": "https://yakkun.com/sv/zukan/n765"
+    },
+    {
+        "dex_no": 766,
+        "pokemon_name": "ナゲツケサル",
+        "url": "https://yakkun.com/sv/zukan/n766"
+    },
+    {
+        "dex_no": 767,
+        "pokemon_name": "コソクムシ",
+        "url": "https://yakkun.com/sv/zukan/n767"
+    },
+    {
+        "dex_no": 768,
+        "pokemon_name": "グソクムシャ",
+        "url": "https://yakkun.com/sv/zukan/n768"
+    },
+    {
+        "dex_no": 769,
+        "pokemon_name": "スナバァ",
+        "url": "https://yakkun.com/sv/zukan/n769"
+    },
+    {
+        "dex_no": 770,
+        "pokemon_name": "シロデスナ",
+        "url": "https://yakkun.com/sv/zukan/n770"
+    },
+    {
+        "dex_no": 771,
+        "pokemon_name": "ナマコブシ",
+        "url": "https://yakkun.com/sv/zukan/n771"
+    },
+    {
+        "dex_no": 772,
+        "pokemon_name": "タイプ：ヌル",
+        "url": "https://yakkun.com/sv/zukan/n772"
+    },
+    {
+        "dex_no": 773,
+        "pokemon_name": "シルヴァディ",
+        "url": "https://yakkun.com/sv/zukan/n773"
+    },
+    {
+        "dex_no": 774,
+        "pokemon_name": "メテノ(流星)",
+        "url": "https://yakkun.com/sv/zukan/n774"
+    },
+    {
+        "dex_no": 774,
+        "pokemon_name": "メテノ(コア)",
+        "url": "https://yakkun.com/sv/zukan/n774f"
+    },
+    {
+        "dex_no": 775,
+        "pokemon_name": "ネッコアラ",
+        "url": "https://yakkun.com/sv/zukan/n775"
+    },
+    {
+        "dex_no": 776,
+        "pokemon_name": "バクガメス",
+        "url": "https://yakkun.com/sv/zukan/n776"
+    },
+    {
+        "dex_no": 777,
+        "pokemon_name": "トゲデマル",
+        "url": "https://yakkun.com/sv/zukan/n777"
+    },
+    {
+        "dex_no": 778,
+        "pokemon_name": "ミミッキュ",
+        "url": "https://yakkun.com/sv/zukan/n778"
+    },
+    {
+        "dex_no": 779,
+        "pokemon_name": "ハギギシリ",
+        "url": "https://yakkun.com/sv/zukan/n779"
+    },
+    {
+        "dex_no": 780,
+        "pokemon_name": "ジジーロン",
+        "url": "https://yakkun.com/sv/zukan/n780"
+    },
+    {
+        "dex_no": 781,
+        "pokemon_name": "ダダリン",
+        "url": "https://yakkun.com/sv/zukan/n781"
+    },
+    {
+        "dex_no": 782,
+        "pokemon_name": "ジャラコ",
+        "url": "https://yakkun.com/sv/zukan/n782"
+    },
+    {
+        "dex_no": 783,
+        "pokemon_name": "ジャランゴ",
+        "url": "https://yakkun.com/sv/zukan/n783"
+    },
+    {
+        "dex_no": 784,
+        "pokemon_name": "ジャラランガ",
+        "url": "https://yakkun.com/sv/zukan/n784"
+    },
+    {
+        "dex_no": 785,
+        "pokemon_name": "カプ・コケコ",
+        "url": "https://yakkun.com/sv/zukan/n785"
+    },
+    {
+        "dex_no": 786,
+        "pokemon_name": "カプ・テテフ",
+        "url": "https://yakkun.com/sv/zukan/n786"
+    },
+    {
+        "dex_no": 787,
+        "pokemon_name": "カプ・ブルル",
+        "url": "https://yakkun.com/sv/zukan/n787"
+    },
+    {
+        "dex_no": 788,
+        "pokemon_name": "カプ・レヒレ",
+        "url": "https://yakkun.com/sv/zukan/n788"
+    },
+    {
+        "dex_no": 789,
+        "pokemon_name": "コスモッグ",
+        "url": "https://yakkun.com/sv/zukan/n789"
+    },
+    {
+        "dex_no": 790,
+        "pokemon_name": "コスモウム",
+        "url": "https://yakkun.com/sv/zukan/n790"
+    },
+    {
+        "dex_no": 791,
+        "pokemon_name": "ソルガレオ",
+        "url": "https://yakkun.com/sv/zukan/n791"
+    },
+    {
+        "dex_no": 792,
+        "pokemon_name": "ルナアーラ",
+        "url": "https://yakkun.com/sv/zukan/n792"
+    },
+    {
+        "dex_no": 793,
+        "pokemon_name": "ウツロイド",
+        "url": "https://yakkun.com/sv/zukan/n793"
+    },
+    {
+        "dex_no": 794,
+        "pokemon_name": "マッシブーン",
+        "url": "https://yakkun.com/sv/zukan/n794"
+    },
+    {
+        "dex_no": 795,
+        "pokemon_name": "フェローチェ",
+        "url": "https://yakkun.com/sv/zukan/n795"
+    },
+    {
+        "dex_no": 796,
+        "pokemon_name": "デンジュモク",
+        "url": "https://yakkun.com/sv/zukan/n796"
+    },
+    {
+        "dex_no": 797,
+        "pokemon_name": "テッカグヤ",
+        "url": "https://yakkun.com/sv/zukan/n797"
+    },
+    {
+        "dex_no": 798,
+        "pokemon_name": "カミツルギ",
+        "url": "https://yakkun.com/sv/zukan/n798"
+    },
+    {
+        "dex_no": 799,
+        "pokemon_name": "アクジキング",
+        "url": "https://yakkun.com/sv/zukan/n799"
+    },
+    {
+        "dex_no": 800,
+        "pokemon_name": "ネクロズマ",
+        "url": "https://yakkun.com/sv/zukan/n800"
+    },
+    {
+        "dex_no": 800,
+        "pokemon_name": "ネクロズマ(日食)",
+        "url": "https://yakkun.com/sv/zukan/n800s"
+    },
+    {
+        "dex_no": 800,
+        "pokemon_name": "ネクロズマ(月食)",
+        "url": "https://yakkun.com/sv/zukan/n800m"
+    },
+    {
+        "dex_no": 800,
+        "pokemon_name": "ウルトラネクロズマ",
+        "url": "https://yakkun.com/sv/zukan/n800u"
+    },
+    {
+        "dex_no": 801,
+        "pokemon_name": "マギアナ",
+        "url": "https://yakkun.com/sv/zukan/n801"
+    },
+    {
+        "dex_no": 802,
+        "pokemon_name": "マーシャドー",
+        "url": "https://yakkun.com/sv/zukan/n802"
+    },
+    {
+        "dex_no": 803,
+        "pokemon_name": "ベベノム",
+        "url": "https://yakkun.com/sv/zukan/n803"
+    },
+    {
+        "dex_no": 804,
+        "pokemon_name": "アーゴヨン",
+        "url": "https://yakkun.com/sv/zukan/n804"
+    },
+    {
+        "dex_no": 805,
+        "pokemon_name": "ツンデツンデ",
+        "url": "https://yakkun.com/sv/zukan/n805"
+    },
+    {
+        "dex_no": 806,
+        "pokemon_name": "ズガドーン",
+        "url": "https://yakkun.com/sv/zukan/n806"
+    },
+    {
+        "dex_no": 807,
+        "pokemon_name": "ゼラオラ",
+        "url": "https://yakkun.com/sv/zukan/n807"
+    },
+    {
+        "dex_no": 808,
+        "pokemon_name": "メルタン",
+        "url": "https://yakkun.com/sv/zukan/n808"
+    },
+    {
+        "dex_no": 809,
+        "pokemon_name": "メルメタル",
+        "url": "https://yakkun.com/sv/zukan/n809"
+    },
+    {
+        "dex_no": 810,
+        "pokemon_name": "サルノリ",
+        "url": "https://yakkun.com/sv/zukan/n810"
+    },
+    {
+        "dex_no": 811,
+        "pokemon_name": "バチンキー",
+        "url": "https://yakkun.com/sv/zukan/n811"
+    },
+    {
+        "dex_no": 812,
+        "pokemon_name": "ゴリランダー",
+        "url": "https://yakkun.com/sv/zukan/n812"
+    },
+    {
+        "dex_no": 813,
+        "pokemon_name": "ヒバニー",
+        "url": "https://yakkun.com/sv/zukan/n813"
+    },
+    {
+        "dex_no": 814,
+        "pokemon_name": "ラビフット",
+        "url": "https://yakkun.com/sv/zukan/n814"
+    },
+    {
+        "dex_no": 815,
+        "pokemon_name": "エースバーン",
+        "url": "https://yakkun.com/sv/zukan/n815"
+    },
+    {
+        "dex_no": 816,
+        "pokemon_name": "メッソン",
+        "url": "https://yakkun.com/sv/zukan/n816"
+    },
+    {
+        "dex_no": 817,
+        "pokemon_name": "ジメレオン",
+        "url": "https://yakkun.com/sv/zukan/n817"
+    },
+    {
+        "dex_no": 818,
+        "pokemon_name": "インテレオン",
+        "url": "https://yakkun.com/sv/zukan/n818"
+    },
+    {
+        "dex_no": 819,
+        "pokemon_name": "ホシガリス",
+        "url": "https://yakkun.com/sv/zukan/n819"
+    },
+    {
+        "dex_no": 820,
+        "pokemon_name": "ヨクバリス",
+        "url": "https://yakkun.com/sv/zukan/n820"
+    },
+    {
+        "dex_no": 821,
+        "pokemon_name": "ココガラ",
+        "url": "https://yakkun.com/sv/zukan/n821"
+    },
+    {
+        "dex_no": 822,
+        "pokemon_name": "アオガラス",
+        "url": "https://yakkun.com/sv/zukan/n822"
+    },
+    {
+        "dex_no": 823,
+        "pokemon_name": "アーマーガア",
+        "url": "https://yakkun.com/sv/zukan/n823"
+    },
+    {
+        "dex_no": 824,
+        "pokemon_name": "サッチムシ",
+        "url": "https://yakkun.com/sv/zukan/n824"
+    },
+    {
+        "dex_no": 825,
+        "pokemon_name": "レドームシ",
+        "url": "https://yakkun.com/sv/zukan/n825"
+    },
+    {
+        "dex_no": 826,
+        "pokemon_name": "イオルブ",
+        "url": "https://yakkun.com/sv/zukan/n826"
+    },
+    {
+        "dex_no": 827,
+        "pokemon_name": "クスネ",
+        "url": "https://yakkun.com/sv/zukan/n827"
+    },
+    {
+        "dex_no": 828,
+        "pokemon_name": "フォクスライ",
+        "url": "https://yakkun.com/sv/zukan/n828"
+    },
+    {
+        "dex_no": 829,
+        "pokemon_name": "ヒメンカ",
+        "url": "https://yakkun.com/sv/zukan/n829"
+    },
+    {
+        "dex_no": 830,
+        "pokemon_name": "ワタシラガ",
+        "url": "https://yakkun.com/sv/zukan/n830"
+    },
+    {
+        "dex_no": 831,
+        "pokemon_name": "ウールー",
+        "url": "https://yakkun.com/sv/zukan/n831"
+    },
+    {
+        "dex_no": 832,
+        "pokemon_name": "バイウールー",
+        "url": "https://yakkun.com/sv/zukan/n832"
+    },
+    {
+        "dex_no": 833,
+        "pokemon_name": "カムカメ",
+        "url": "https://yakkun.com/sv/zukan/n833"
+    },
+    {
+        "dex_no": 834,
+        "pokemon_name": "カジリガメ",
+        "url": "https://yakkun.com/sv/zukan/n834"
+    },
+    {
+        "dex_no": 835,
+        "pokemon_name": "ワンパチ",
+        "url": "https://yakkun.com/sv/zukan/n835"
+    },
+    {
+        "dex_no": 836,
+        "pokemon_name": "パルスワン",
+        "url": "https://yakkun.com/sv/zukan/n836"
+    },
+    {
+        "dex_no": 837,
+        "pokemon_name": "タンドン",
+        "url": "https://yakkun.com/sv/zukan/n837"
+    },
+    {
+        "dex_no": 838,
+        "pokemon_name": "トロッゴン",
+        "url": "https://yakkun.com/sv/zukan/n838"
+    },
+    {
+        "dex_no": 839,
+        "pokemon_name": "セキタンザン",
+        "url": "https://yakkun.com/sv/zukan/n839"
+    },
+    {
+        "dex_no": 840,
+        "pokemon_name": "カジッチュ",
+        "url": "https://yakkun.com/sv/zukan/n840"
+    },
+    {
+        "dex_no": 841,
+        "pokemon_name": "アップリュー",
+        "url": "https://yakkun.com/sv/zukan/n841"
+    },
+    {
+        "dex_no": 842,
+        "pokemon_name": "タルップル",
+        "url": "https://yakkun.com/sv/zukan/n842"
+    },
+    {
+        "dex_no": 843,
+        "pokemon_name": "スナヘビ",
+        "url": "https://yakkun.com/sv/zukan/n843"
+    },
+    {
+        "dex_no": 844,
+        "pokemon_name": "サダイジャ",
+        "url": "https://yakkun.com/sv/zukan/n844"
+    },
+    {
+        "dex_no": 845,
+        "pokemon_name": "ウッウ",
+        "url": "https://yakkun.com/sv/zukan/n845"
+    },
+    {
+        "dex_no": 846,
+        "pokemon_name": "サシカマス",
+        "url": "https://yakkun.com/sv/zukan/n846"
+    },
+    {
+        "dex_no": 847,
+        "pokemon_name": "カマスジョー",
+        "url": "https://yakkun.com/sv/zukan/n847"
+    },
+    {
+        "dex_no": 848,
+        "pokemon_name": "エレズン",
+        "url": "https://yakkun.com/sv/zukan/n848"
+    },
+    {
+        "dex_no": 849,
+        "pokemon_name": "ストリンダー(ハイ)",
+        "url": "https://yakkun.com/sv/zukan/n849"
+    },
+    {
+        "dex_no": 849,
+        "pokemon_name": "ストリンダー(ロー)",
+        "url": "https://yakkun.com/sv/zukan/n849f"
+    },
+    {
+        "dex_no": 850,
+        "pokemon_name": "ヤクデ",
+        "url": "https://yakkun.com/sv/zukan/n850"
+    },
+    {
+        "dex_no": 851,
+        "pokemon_name": "マルヤクデ",
+        "url": "https://yakkun.com/sv/zukan/n851"
+    },
+    {
+        "dex_no": 852,
+        "pokemon_name": "タタッコ",
+        "url": "https://yakkun.com/sv/zukan/n852"
+    },
+    {
+        "dex_no": 853,
+        "pokemon_name": "オトスパス",
+        "url": "https://yakkun.com/sv/zukan/n853"
+    },
+    {
+        "dex_no": 854,
+        "pokemon_name": "ヤバチャ",
+        "url": "https://yakkun.com/sv/zukan/n854"
+    },
+    {
+        "dex_no": 855,
+        "pokemon_name": "ポットデス",
+        "url": "https://yakkun.com/sv/zukan/n855"
+    },
+    {
+        "dex_no": 856,
+        "pokemon_name": "ミブリム",
+        "url": "https://yakkun.com/sv/zukan/n856"
+    },
+    {
+        "dex_no": 857,
+        "pokemon_name": "テブリム",
+        "url": "https://yakkun.com/sv/zukan/n857"
+    },
+    {
+        "dex_no": 858,
+        "pokemon_name": "ブリムオン",
+        "url": "https://yakkun.com/sv/zukan/n858"
+    },
+    {
+        "dex_no": 859,
+        "pokemon_name": "ベロバー",
+        "url": "https://yakkun.com/sv/zukan/n859"
+    },
+    {
+        "dex_no": 860,
+        "pokemon_name": "ギモー",
+        "url": "https://yakkun.com/sv/zukan/n860"
+    },
+    {
+        "dex_no": 861,
+        "pokemon_name": "オーロンゲ",
+        "url": "https://yakkun.com/sv/zukan/n861"
+    },
+    {
+        "dex_no": 862,
+        "pokemon_name": "タチフサグマ",
+        "url": "https://yakkun.com/sv/zukan/n862"
+    },
+    {
+        "dex_no": 863,
+        "pokemon_name": "ニャイキング",
+        "url": "https://yakkun.com/sv/zukan/n863"
+    },
+    {
+        "dex_no": 864,
+        "pokemon_name": "サニゴーン",
+        "url": "https://yakkun.com/sv/zukan/n864"
+    },
+    {
+        "dex_no": 865,
+        "pokemon_name": "ネギガナイト",
+        "url": "https://yakkun.com/sv/zukan/n865"
+    },
+    {
+        "dex_no": 866,
+        "pokemon_name": "バリコオル",
+        "url": "https://yakkun.com/sv/zukan/n866"
+    },
+    {
+        "dex_no": 867,
+        "pokemon_name": "デスバーン",
+        "url": "https://yakkun.com/sv/zukan/n867"
+    },
+    {
+        "dex_no": 868,
+        "pokemon_name": "マホミル",
+        "url": "https://yakkun.com/sv/zukan/n868"
+    },
+    {
+        "dex_no": 869,
+        "pokemon_name": "マホイップ",
+        "url": "https://yakkun.com/sv/zukan/n869"
+    },
+    {
+        "dex_no": 870,
+        "pokemon_name": "タイレーツ",
+        "url": "https://yakkun.com/sv/zukan/n870"
+    },
+    {
+        "dex_no": 871,
+        "pokemon_name": "バチンウニ",
+        "url": "https://yakkun.com/sv/zukan/n871"
+    },
+    {
+        "dex_no": 872,
+        "pokemon_name": "ユキハミ",
+        "url": "https://yakkun.com/sv/zukan/n872"
+    },
+    {
+        "dex_no": 873,
+        "pokemon_name": "モスノウ",
+        "url": "https://yakkun.com/sv/zukan/n873"
+    },
+    {
+        "dex_no": 874,
+        "pokemon_name": "イシヘンジン",
+        "url": "https://yakkun.com/sv/zukan/n874"
+    },
+    {
+        "dex_no": 875,
+        "pokemon_name": "コオリッポ(アイス)",
+        "url": "https://yakkun.com/sv/zukan/n875"
+    },
+    {
+        "dex_no": 875,
+        "pokemon_name": "コオリッポ(ナイス)",
+        "url": "https://yakkun.com/sv/zukan/n875f"
+    },
+    {
+        "dex_no": 876,
+        "pokemon_name": "イエッサン♂",
+        "url": "https://yakkun.com/sv/zukan/n876"
+    },
+    {
+        "dex_no": 876,
+        "pokemon_name": "イエッサン♀",
+        "url": "https://yakkun.com/sv/zukan/n876f"
+    },
+    {
+        "dex_no": 877,
+        "pokemon_name": "モルペコ",
+        "url": "https://yakkun.com/sv/zukan/n877"
+    },
+    {
+        "dex_no": 878,
+        "pokemon_name": "ゾウドウ",
+        "url": "https://yakkun.com/sv/zukan/n878"
+    },
+    {
+        "dex_no": 879,
+        "pokemon_name": "ダイオウドウ",
+        "url": "https://yakkun.com/sv/zukan/n879"
+    },
+    {
+        "dex_no": 880,
+        "pokemon_name": "パッチラゴン",
+        "url": "https://yakkun.com/sv/zukan/n880"
+    },
+    {
+        "dex_no": 881,
+        "pokemon_name": "パッチルドン",
+        "url": "https://yakkun.com/sv/zukan/n881"
+    },
+    {
+        "dex_no": 882,
+        "pokemon_name": "ウオノラゴン",
+        "url": "https://yakkun.com/sv/zukan/n882"
+    },
+    {
+        "dex_no": 883,
+        "pokemon_name": "ウオチルドン",
+        "url": "https://yakkun.com/sv/zukan/n883"
+    },
+    {
+        "dex_no": 884,
+        "pokemon_name": "ジュラルドン",
+        "url": "https://yakkun.com/sv/zukan/n884"
+    },
+    {
+        "dex_no": 885,
+        "pokemon_name": "ドラメシヤ",
+        "url": "https://yakkun.com/sv/zukan/n885"
+    },
+    {
+        "dex_no": 886,
+        "pokemon_name": "ドロンチ",
+        "url": "https://yakkun.com/sv/zukan/n886"
+    },
+    {
+        "dex_no": 887,
+        "pokemon_name": "ドラパルト",
+        "url": "https://yakkun.com/sv/zukan/n887"
+    },
+    {
+        "dex_no": 888,
+        "pokemon_name": "ザシアン",
+        "url": "https://yakkun.com/sv/zukan/n888"
+    },
+    {
+        "dex_no": 888,
+        "pokemon_name": "ザシアン(王)",
+        "url": "https://yakkun.com/sv/zukan/n888f"
+    },
+    {
+        "dex_no": 889,
+        "pokemon_name": "ザマゼンタ",
+        "url": "https://yakkun.com/sv/zukan/n889"
+    },
+    {
+        "dex_no": 889,
+        "pokemon_name": "ザマゼンタ(王)",
+        "url": "https://yakkun.com/sv/zukan/n889f"
+    },
+    {
+        "dex_no": 890,
+        "pokemon_name": "ムゲンダイナ",
+        "url": "https://yakkun.com/sv/zukan/n890"
+    },
+    {
+        "dex_no": 891,
+        "pokemon_name": "ダクマ",
+        "url": "https://yakkun.com/sv/zukan/n891"
+    },
+    {
+        "dex_no": 892,
+        "pokemon_name": "ウーラオス(いちげき)",
+        "url": "https://yakkun.com/sv/zukan/n892"
+    },
+    {
+        "dex_no": 892,
+        "pokemon_name": "ウーラオス(れんげき)",
+        "url": "https://yakkun.com/sv/zukan/n892r"
+    },
+    {
+        "dex_no": 893,
+        "pokemon_name": "ザルード",
+        "url": "https://yakkun.com/sv/zukan/n893"
+    },
+    {
+        "dex_no": 894,
+        "pokemon_name": "レジエレキ",
+        "url": "https://yakkun.com/sv/zukan/n894"
+    },
+    {
+        "dex_no": 895,
+        "pokemon_name": "レジドラゴ",
+        "url": "https://yakkun.com/sv/zukan/n895"
+    },
+    {
+        "dex_no": 896,
+        "pokemon_name": "ブリザポス",
+        "url": "https://yakkun.com/sv/zukan/n896"
+    },
+    {
+        "dex_no": 897,
+        "pokemon_name": "レイスポス",
+        "url": "https://yakkun.com/sv/zukan/n897"
+    },
+    {
+        "dex_no": 898,
+        "pokemon_name": "バドレックス",
+        "url": "https://yakkun.com/sv/zukan/n898"
+    },
+    {
+        "dex_no": 898,
+        "pokemon_name": "バドレックス(はくば)",
+        "url": "https://yakkun.com/sv/zukan/n898w"
+    },
+    {
+        "dex_no": 898,
+        "pokemon_name": "バドレックス(こくば)",
+        "url": "https://yakkun.com/sv/zukan/n898b"
+    },
+    {
+        "dex_no": 899,
+        "pokemon_name": "アヤシシ",
+        "url": "https://yakkun.com/sv/zukan/n899"
+    },
+    {
+        "dex_no": 900,
+        "pokemon_name": "バサギリ",
+        "url": "https://yakkun.com/sv/zukan/n900"
+    },
+    {
+        "dex_no": 901,
+        "pokemon_name": "ガチグマ",
+        "url": "https://yakkun.com/sv/zukan/n901"
+    },
+    {
+        "dex_no": 901,
+        "pokemon_name": "ガチグマ(アカツキ)",
+        "url": "https://yakkun.com/sv/zukan/n901f"
+    },
+    {
+        "dex_no": 902,
+        "pokemon_name": "イダイトウ♂",
+        "url": "https://yakkun.com/sv/zukan/n902"
+    },
+    {
+        "dex_no": 902,
+        "pokemon_name": "イダイトウ♀",
+        "url": "https://yakkun.com/sv/zukan/n902f"
+    },
+    {
+        "dex_no": 903,
+        "pokemon_name": "オオニューラ",
+        "url": "https://yakkun.com/sv/zukan/n903"
+    },
+    {
+        "dex_no": 904,
+        "pokemon_name": "ハリーマン",
+        "url": "https://yakkun.com/sv/zukan/n904"
+    },
+    {
+        "dex_no": 905,
+        "pokemon_name": "ラブトロス(化身)",
+        "url": "https://yakkun.com/sv/zukan/n905"
+    },
+    {
+        "dex_no": 905,
+        "pokemon_name": "ラブトロス(霊獣)",
+        "url": "https://yakkun.com/sv/zukan/n905a"
+    },
+    {
+        "dex_no": 906,
+        "pokemon_name": "ニャオハ",
+        "url": "https://yakkun.com/sv/zukan/n906"
+    },
+    {
+        "dex_no": 907,
+        "pokemon_name": "ニャローテ",
+        "url": "https://yakkun.com/sv/zukan/n907"
+    },
+    {
+        "dex_no": 908,
+        "pokemon_name": "マスカーニャ",
+        "url": "https://yakkun.com/sv/zukan/n908"
+    },
+    {
+        "dex_no": 909,
+        "pokemon_name": "ホゲータ",
+        "url": "https://yakkun.com/sv/zukan/n909"
+    },
+    {
+        "dex_no": 910,
+        "pokemon_name": "アチゲータ",
+        "url": "https://yakkun.com/sv/zukan/n910"
+    },
+    {
+        "dex_no": 911,
+        "pokemon_name": "ラウドボーン",
+        "url": "https://yakkun.com/sv/zukan/n911"
+    },
+    {
+        "dex_no": 912,
+        "pokemon_name": "クワッス",
+        "url": "https://yakkun.com/sv/zukan/n912"
+    },
+    {
+        "dex_no": 913,
+        "pokemon_name": "ウェルカモ",
+        "url": "https://yakkun.com/sv/zukan/n913"
+    },
+    {
+        "dex_no": 914,
+        "pokemon_name": "ウェーニバル",
+        "url": "https://yakkun.com/sv/zukan/n914"
+    },
+    {
+        "dex_no": 915,
+        "pokemon_name": "グルトン",
+        "url": "https://yakkun.com/sv/zukan/n915"
+    },
+    {
+        "dex_no": 916,
+        "pokemon_name": "パフュートン♂",
+        "url": "https://yakkun.com/sv/zukan/n916"
+    },
+    {
+        "dex_no": 916,
+        "pokemon_name": "パフュートン♀",
+        "url": "https://yakkun.com/sv/zukan/n916f"
+    },
+    {
+        "dex_no": 917,
+        "pokemon_name": "タマンチュラ",
+        "url": "https://yakkun.com/sv/zukan/n918"
+    },
+    {
+        "dex_no": 918,
+        "pokemon_name": "ワナイダー",
+        "url": "https://yakkun.com/sv/zukan/n919"
+    },
+    {
+        "dex_no": 919,
+        "pokemon_name": "マメバッタ",
+        "url": "https://yakkun.com/sv/zukan/n920"
+    },
+    {
+        "dex_no": 920,
+        "pokemon_name": "エクスレッグ",
+        "url": "https://yakkun.com/sv/zukan/n921"
+    },
+    {
+        "dex_no": 921,
+        "pokemon_name": "パモ",
+        "url": "https://yakkun.com/sv/zukan/n954"
+    },
+    {
+        "dex_no": 922,
+        "pokemon_name": "パモット",
+        "url": "https://yakkun.com/sv/zukan/n955"
+    },
+    {
+        "dex_no": 923,
+        "pokemon_name": "パーモット",
+        "url": "https://yakkun.com/sv/zukan/n956"
+    },
+    {
+        "dex_no": 924,
+        "pokemon_name": "ワッカネズミ",
+        "url": "https://yakkun.com/sv/zukan/n945"
+    },
+    {
+        "dex_no": 925,
+        "pokemon_name": "イッカネズミ",
+        "url": "https://yakkun.com/sv/zukan/n946"
+    },
+    {
+        "dex_no": 926,
+        "pokemon_name": "パピモッチ",
+        "url": "https://yakkun.com/sv/zukan/n970"
+    },
+    {
+        "dex_no": 927,
+        "pokemon_name": "バウッツェル",
+        "url": "https://yakkun.com/sv/zukan/n971"
+    },
+    {
+        "dex_no": 928,
+        "pokemon_name": "ミニーブ",
+        "url": "https://yakkun.com/sv/zukan/n935"
+    },
+    {
+        "dex_no": 929,
+        "pokemon_name": "オリーニョ",
+        "url": "https://yakkun.com/sv/zukan/n936"
+    },
+    {
+        "dex_no": 930,
+        "pokemon_name": "オリーヴァ",
+        "url": "https://yakkun.com/sv/zukan/n937"
+    },
+    {
+        "dex_no": 931,
+        "pokemon_name": "イキリンコ",
+        "url": "https://yakkun.com/sv/zukan/n960"
+    },
+    {
+        "dex_no": 932,
+        "pokemon_name": "コジオ",
+        "url": "https://yakkun.com/sv/zukan/n963"
+    },
+    {
+        "dex_no": 933,
+        "pokemon_name": "ジオヅム",
+        "url": "https://yakkun.com/sv/zukan/n964"
+    },
+    {
+        "dex_no": 934,
+        "pokemon_name": "キョジオーン",
+        "url": "https://yakkun.com/sv/zukan/n965"
+    },
+    {
+        "dex_no": 935,
+        "pokemon_name": "カルボウ",
+        "url": "https://yakkun.com/sv/zukan/n1003"
+    },
+    {
+        "dex_no": 936,
+        "pokemon_name": "グレンアルマ",
+        "url": "https://yakkun.com/sv/zukan/n1004"
+    },
+    {
+        "dex_no": 937,
+        "pokemon_name": "ソウブレイズ",
+        "url": "https://yakkun.com/sv/zukan/n1005"
+    },
+    {
+        "dex_no": 938,
+        "pokemon_name": "ズピカ",
+        "url": "https://yakkun.com/sv/zukan/n940"
+    },
+    {
+        "dex_no": 939,
+        "pokemon_name": "ハラバリー",
+        "url": "https://yakkun.com/sv/zukan/n941"
+    },
+    {
+        "dex_no": 940,
+        "pokemon_name": "カイデン",
+        "url": "https://yakkun.com/sv/zukan/n957"
+    },
+    {
+        "dex_no": 941,
+        "pokemon_name": "タイカイデン",
+        "url": "https://yakkun.com/sv/zukan/n958"
+    },
+    {
+        "dex_no": 942,
+        "pokemon_name": "オラチフ",
+        "url": "https://yakkun.com/sv/zukan/n972"
+    },
+    {
+        "dex_no": 943,
+        "pokemon_name": "マフィティフ",
+        "url": "https://yakkun.com/sv/zukan/n973"
+    },
+    {
+        "dex_no": 944,
+        "pokemon_name": "シルシュルー",
+        "url": "https://yakkun.com/sv/zukan/n968"
+    },
+    {
+        "dex_no": 945,
+        "pokemon_name": "タギングル",
+        "url": "https://yakkun.com/sv/zukan/n969"
+    },
+    {
+        "dex_no": 946,
+        "pokemon_name": "アノクサ",
+        "url": "https://yakkun.com/sv/zukan/n974"
+    },
+    {
+        "dex_no": 947,
+        "pokemon_name": "アノホラグサ",
+        "url": "https://yakkun.com/sv/zukan/n975"
+    },
+    {
+        "dex_no": 948,
+        "pokemon_name": "ノノクラゲ",
+        "url": "https://yakkun.com/sv/zukan/n1006"
+    },
+    {
+        "dex_no": 949,
+        "pokemon_name": "リククラゲ",
+        "url": "https://yakkun.com/sv/zukan/n1007"
+    },
+    {
+        "dex_no": 950,
+        "pokemon_name": "ガケガニ",
+        "url": "https://yakkun.com/sv/zukan/n962"
+    },
+    {
+        "dex_no": 951,
+        "pokemon_name": "カプサイジ",
+        "url": "https://yakkun.com/sv/zukan/n938"
+    },
+    {
+        "dex_no": 952,
+        "pokemon_name": "スコヴィラン",
+        "url": "https://yakkun.com/sv/zukan/n939"
+    },
+    {
+        "dex_no": 953,
+        "pokemon_name": "シガロコ",
+        "url": "https://yakkun.com/sv/zukan/n922"
+    },
+    {
+        "dex_no": 954,
+        "pokemon_name": "ベラカス",
+        "url": "https://yakkun.com/sv/zukan/n923"
+    },
+    {
+        "dex_no": 955,
+        "pokemon_name": "ヒラヒナ",
+        "url": "https://yakkun.com/sv/zukan/n926"
+    },
+    {
+        "dex_no": 956,
+        "pokemon_name": "クエスパトラ",
+        "url": "https://yakkun.com/sv/zukan/n927"
+    },
+    {
+        "dex_no": 957,
+        "pokemon_name": "カヌチャン",
+        "url": "https://yakkun.com/sv/zukan/n1000"
+    },
+    {
+        "dex_no": 958,
+        "pokemon_name": "ナカヌチャン",
+        "url": "https://yakkun.com/sv/zukan/n1001"
+    },
+    {
+        "dex_no": 959,
+        "pokemon_name": "デカヌチャン",
+        "url": "https://yakkun.com/sv/zukan/n1002"
+    },
+    {
+        "dex_no": 960,
+        "pokemon_name": "ウミディグダ",
+        "url": "https://yakkun.com/sv/zukan/n929"
+    },
+    {
+        "dex_no": 961,
+        "pokemon_name": "ウミトリオ",
+        "url": "https://yakkun.com/sv/zukan/n930"
+    },
+    {
+        "dex_no": 962,
+        "pokemon_name": "オトシドリ",
+        "url": "https://yakkun.com/sv/zukan/n959"
+    },
+    {
+        "dex_no": 963,
+        "pokemon_name": "ナミイルカ",
+        "url": "https://yakkun.com/sv/zukan/n933"
+    },
+    {
+        "dex_no": 964,
+        "pokemon_name": "イルカマン(ナイーブ)",
+        "url": "https://yakkun.com/sv/zukan/n934"
+    },
+    {
+        "dex_no": 964,
+        "pokemon_name": "イルカマン(マイティ)",
+        "url": "https://yakkun.com/sv/zukan/n934f"
+    },
+    {
+        "dex_no": 965,
+        "pokemon_name": "ブロロン",
+        "url": "https://yakkun.com/sv/zukan/n942"
+    },
+    {
+        "dex_no": 966,
+        "pokemon_name": "ブロロローム",
+        "url": "https://yakkun.com/sv/zukan/n943"
+    },
+    {
+        "dex_no": 967,
+        "pokemon_name": "モトトカゲ",
+        "url": "https://yakkun.com/sv/zukan/n953"
+    },
+    {
+        "dex_no": 968,
+        "pokemon_name": "ミミズズ",
+        "url": "https://yakkun.com/sv/zukan/n944"
+    },
+    {
+        "dex_no": 969,
+        "pokemon_name": "キラーメ",
+        "url": "https://yakkun.com/sv/zukan/n966"
+    },
+    {
+        "dex_no": 970,
+        "pokemon_name": "キラフロル",
+        "url": "https://yakkun.com/sv/zukan/n967"
+    },
+    {
+        "dex_no": 971,
+        "pokemon_name": "ボチ",
+        "url": "https://yakkun.com/sv/zukan/n924"
+    },
+    {
+        "dex_no": 972,
+        "pokemon_name": "ハカドッグ",
+        "url": "https://yakkun.com/sv/zukan/n925"
+    },
+    {
+        "dex_no": 973,
+        "pokemon_name": "カラミンゴ",
+        "url": "https://yakkun.com/sv/zukan/n961"
+    },
+    {
+        "dex_no": 974,
+        "pokemon_name": "アルクジラ",
+        "url": "https://yakkun.com/sv/zukan/n947"
+    },
+    {
+        "dex_no": 975,
+        "pokemon_name": "ハルクジラ",
+        "url": "https://yakkun.com/sv/zukan/n948"
+    },
+    {
+        "dex_no": 976,
+        "pokemon_name": "ミガルーサ",
+        "url": "https://yakkun.com/sv/zukan/n932"
+    },
+    {
+        "dex_no": 977,
+        "pokemon_name": "ヘイラッシャ",
+        "url": "https://yakkun.com/sv/zukan/n931"
+    },
+    {
+        "dex_no": 978,
+        "pokemon_name": "シャリタツ",
+        "url": "https://yakkun.com/sv/zukan/n952"
+    },
+    {
+        "dex_no": 979,
+        "pokemon_name": "コノヨザル",
+        "url": "https://yakkun.com/sv/zukan/n1010"
+    },
+    {
+        "dex_no": 980,
+        "pokemon_name": "ドオー",
+        "url": "https://yakkun.com/sv/zukan/n1009"
+    },
+    {
+        "dex_no": 981,
+        "pokemon_name": "リキキリン",
+        "url": "https://yakkun.com/sv/zukan/n928"
+    },
+    {
+        "dex_no": 982,
+        "pokemon_name": "ノココッチ",
+        "url": "https://yakkun.com/sv/zukan/n917"
+    },
+    {
+        "dex_no": 983,
+        "pokemon_name": "ドドゲザン",
+        "url": "https://yakkun.com/sv/zukan/n1008"
+    },
+    {
+        "dex_no": 984,
+        "pokemon_name": "イダイナキバ",
+        "url": "https://yakkun.com/sv/zukan/n978"
+    },
+    {
+        "dex_no": 985,
+        "pokemon_name": "サケブシッポ",
+        "url": "https://yakkun.com/sv/zukan/n982"
+    },
+    {
+        "dex_no": 986,
+        "pokemon_name": "アラブルタケ",
+        "url": "https://yakkun.com/sv/zukan/n979"
+    },
+    {
+        "dex_no": 987,
+        "pokemon_name": "ハバタクカミ",
+        "url": "https://yakkun.com/sv/zukan/n983"
+    },
+    {
+        "dex_no": 988,
+        "pokemon_name": "チヲハウハネ",
+        "url": "https://yakkun.com/sv/zukan/n984"
+    },
+    {
+        "dex_no": 989,
+        "pokemon_name": "スナノケガワ",
+        "url": "https://yakkun.com/sv/zukan/n981"
+    },
+    {
+        "dex_no": 990,
+        "pokemon_name": "テツノワダチ",
+        "url": "https://yakkun.com/sv/zukan/n986"
+    },
+    {
+        "dex_no": 991,
+        "pokemon_name": "テツノツツミ",
+        "url": "https://yakkun.com/sv/zukan/n992"
+    },
+    {
+        "dex_no": 992,
+        "pokemon_name": "テツノカイナ",
+        "url": "https://yakkun.com/sv/zukan/n989"
+    },
+    {
+        "dex_no": 993,
+        "pokemon_name": "テツノコウベ",
+        "url": "https://yakkun.com/sv/zukan/n990"
+    },
+    {
+        "dex_no": 994,
+        "pokemon_name": "テツノドクガ",
+        "url": "https://yakkun.com/sv/zukan/n988"
+    },
+    {
+        "dex_no": 995,
+        "pokemon_name": "テツノイバラ",
+        "url": "https://yakkun.com/sv/zukan/n991"
+    },
+    {
+        "dex_no": 996,
+        "pokemon_name": "セビエ",
+        "url": "https://yakkun.com/sv/zukan/n949"
+    },
+    {
+        "dex_no": 997,
+        "pokemon_name": "セゴール",
+        "url": "https://yakkun.com/sv/zukan/n950"
+    },
+    {
+        "dex_no": 998,
+        "pokemon_name": "セグレイブ",
+        "url": "https://yakkun.com/sv/zukan/n951"
+    },
+    {
+        "dex_no": 999,
+        "pokemon_name": "コレクレー(はこ)",
+        "url": "https://yakkun.com/sv/zukan/n976"
+    },
+    {
+        "dex_no": 999,
+        "pokemon_name": "コレクレー(とほ)",
+        "url": "https://yakkun.com/sv/zukan/n976f"
+    },
+    {
+        "dex_no": 1000,
+        "pokemon_name": "サーフゴー",
+        "url": "https://yakkun.com/sv/zukan/n977"
+    },
+    {
+        "dex_no": 1001,
+        "pokemon_name": "チオンジェン",
+        "url": "https://yakkun.com/sv/zukan/n996"
+    },
+    {
+        "dex_no": 1002,
+        "pokemon_name": "パオジアン",
+        "url": "https://yakkun.com/sv/zukan/n995"
+    },
+    {
+        "dex_no": 1003,
+        "pokemon_name": "ディンルー",
+        "url": "https://yakkun.com/sv/zukan/n994"
+    },
+    {
+        "dex_no": 1004,
+        "pokemon_name": "イーユイ",
+        "url": "https://yakkun.com/sv/zukan/n997"
+    },
+    {
+        "dex_no": 1005,
+        "pokemon_name": "トドロクツキ",
+        "url": "https://yakkun.com/sv/zukan/n985"
+    },
+    {
+        "dex_no": 1006,
+        "pokemon_name": "テツノブジン",
+        "url": "https://yakkun.com/sv/zukan/n993"
+    },
+    {
+        "dex_no": 1007,
+        "pokemon_name": "コライドン",
+        "url": "https://yakkun.com/sv/zukan/n998"
+    },
+    {
+        "dex_no": 1008,
+        "pokemon_name": "ミライドン",
+        "url": "https://yakkun.com/sv/zukan/n999"
+    },
+    {
+        "dex_no": 1009,
+        "pokemon_name": "ウネルミナモ",
+        "url": "https://yakkun.com/sv/zukan/n980"
+    },
+    {
+        "dex_no": 1010,
+        "pokemon_name": "テツノイサハ",
+        "url": "https://yakkun.com/sv/zukan/n987"
+    },
+    {
+        "dex_no": 1011,
+        "pokemon_name": "カミッチュ",
+        "url": "https://yakkun.com/sv/zukan/n1012"
+    },
+    {
+        "dex_no": 1012,
+        "pokemon_name": "チャデス",
+        "url": "https://yakkun.com/sv/zukan/n1024"
+    },
+    {
+        "dex_no": 1013,
+        "pokemon_name": "ヤバソチャ",
+        "url": "https://yakkun.com/sv/zukan/n1025"
+    },
+    {
+        "dex_no": 1014,
+        "pokemon_name": "イイネイヌ",
+        "url": "https://yakkun.com/sv/zukan/n1014"
+    },
+    {
+        "dex_no": 1015,
+        "pokemon_name": "マシマシラ",
+        "url": "https://yakkun.com/sv/zukan/n1015"
+    },
+    {
+        "dex_no": 1016,
+        "pokemon_name": "キチキギス",
+        "url": "https://yakkun.com/sv/zukan/n1016"
+    },
+    {
+        "dex_no": 1017,
+        "pokemon_name": "オーガポン",
+        "url": "https://yakkun.com/sv/zukan/n1011"
+    },
+    {
+        "dex_no": 1017,
+        "pokemon_name": "オーガポン(いど)",
+        "url": "https://yakkun.com/sv/zukan/n1011w"
+    },
+    {
+        "dex_no": 1017,
+        "pokemon_name": "オーガポン(かまど)",
+        "url": "https://yakkun.com/sv/zukan/n1011h"
+    },
+    {
+        "dex_no": 1017,
+        "pokemon_name": "オーガポン(いしずえ)",
+        "url": "https://yakkun.com/sv/zukan/n1011c"
+    },
+    {
+        "dex_no": 1018,
+        "pokemon_name": "ブリジュラス",
+        "url": "https://yakkun.com/sv/zukan/n1023"
+    },
+    {
+        "dex_no": 1019,
+        "pokemon_name": "カミツオロチ",
+        "url": "https://yakkun.com/sv/zukan/n1013"
+    },
+    {
+        "dex_no": 1020,
+        "pokemon_name": "ウガツホムラ",
+        "url": "https://yakkun.com/sv/zukan/n1017"
+    },
+    {
+        "dex_no": 1021,
+        "pokemon_name": "タケルライコ",
+        "url": "https://yakkun.com/sv/zukan/n1018"
+    },
+    {
+        "dex_no": 1022,
+        "pokemon_name": "テツノイワオ",
+        "url": "https://yakkun.com/sv/zukan/n1020"
+    },
+    {
+        "dex_no": 1023,
+        "pokemon_name": "テツノカシラ",
+        "url": "https://yakkun.com/sv/zukan/n1019"
+    },
+    {
+        "dex_no": 1024,
+        "pokemon_name": "テラパゴス",
+        "url": "https://yakkun.com/sv/zukan/n1021"
+    },
+    {
+        "dex_no": 1024,
+        "pokemon_name": "テラパゴス(テラスタル)",
+        "url": "https://yakkun.com/sv/zukan/n1021t"
+    },
+    {
+        "dex_no": 1024,
+        "pokemon_name": "テラパゴス(ステラ)",
+        "url": "https://yakkun.com/sv/zukan/n1021s"
+    },
+    {
+        "dex_no": 1025,
+        "pokemon_name": "モモワロウ",
+        "url": "https://yakkun.com/sv/zukan/n1022"
+    }
+]
