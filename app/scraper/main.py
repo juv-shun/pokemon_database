@@ -1,12 +1,5 @@
 """スクレイピングのメイン実行モジュール."""
 
-import sys
-from pathlib import Path
-
-# プロジェクトルートをsys.pathに追加
-project_root = Path(__file__).parent.parent.parent
-sys.path.insert(0, str(project_root))
-
 from app.scraper.output import save_pokemon_json
 from app.scraper.pokemon_basic import scrape_pokemon_basic
 
@@ -17,6 +10,7 @@ def scrape_and_save(url: str, output_dir: str = "data/pokemon") -> None:
     Args:
         url: ポケモン図鑑ページのURL
         output_dir: 出力ディレクトリ
+
     """
     print(f"スクレイピング開始: {url}")
 
