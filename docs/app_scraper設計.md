@@ -59,6 +59,110 @@ uv run python -m app.scraper.main --batch
 - `--sleep 0.5` : ポケモン間のスリープを 0.5 秒に短縮
 - `--sleep 2.0` : 2 秒の待機を挟む
 
+## JSON ファイルフォーマット
+
+以下の構造で JSON ファイルを生成する。
+
+```json
+{
+  "pokemon": {
+    "pokedex_no": 1,
+    "name_ja": "フシギダネ",
+    "name_en": "Bulbasaur",
+    "form_label": null,
+    "type_primary": "くさ",
+    "type_secondary": "どく",
+    "height_dm": 7,
+    "weight_hg": 69,
+    "low_kick_power": 40,
+    "is_legendary": false,
+    "is_mythical": false,
+    "base_hp": 45,
+    "base_atk": 49,
+    "base_def": 49,
+    "base_spa": 65,
+    "base_spd": 65,
+    "base_spe": 45,
+    "remarks": null
+  },
+  "abilities": [
+    {
+      "name_ja": "しんりょく",
+      "effect_text": "HPが1/3以下のとき、くさタイプの技の威力が1.5倍になる",
+      "is_hidden": false
+    },
+    {
+      "name_ja": "ようりょくそ",
+      "effect_text": "天気が「ひざしがつよい」のとき、すばやさが2倍になる",
+      "is_hidden": true
+    }
+  ],
+  "moves": [
+    {
+      "name_ja": "たいあたり",
+      "type_name": "ノーマル",
+      "damage_class": "physical",
+      "power": 40,
+      "accuracy": 100,
+      "pp": 35,
+      "priority": 0,
+      "effect_text": "通常攻撃",
+      "notes": "レベル1"
+    },
+    {
+      "name_ja": "やどりぎのタネ",
+      "type_name": "くさ",
+      "damage_class": "status",
+      "power": null,
+      "accuracy": 90,
+      "pp": 10,
+      "priority": 0,
+      "effect_text": "毎ターン最大HPの1/8のダメージを与え、その分自分のHPを回復する",
+      "notes": "レベル7"
+    }
+  ]
+}
+```
+
+### フォーマットの特徴
+
+1. **トップレベル構造**
+
+   - `pokemon`: ポケモン本体の情報（1 オブジェクト）
+   - `abilities`: 特性のリスト（配列）
+   - `moves`: 覚える技のリスト（配列）
+
+2. **`pokemon` オブジェクト**
+
+   - DB 設計書の `sv.pokemon` テーブルのカラムと 1 対 1 で対応
+   - `id` は含めない（DB 挿入時に自動採番）
+   - NULL 許容フィールドは `null` を明示的に設定
+
+3. **`abilities` 配列**
+
+   - 各特性の情報と、そのポケモンにとって夢特性かどうか（`is_hidden`）を含む
+   - `abilities` テーブルと `pokemon_abilities` テーブルの情報を統合
+   - `id` や `pokemon_id`, `ability_id` などのリレーションキーは含めない
+
+4. **`moves` 配列**
+   - 各技の情報と、習得方法のメモ（`notes`）を含む
+   - `moves` テーブルと `pokemon_moves` テーブルの情報を統合
+   - `id` や `pokemon_id`, `move_id` などのリレーションキーは含めない
+
+## 出力ファイルの命名規則
+
+```text
+data/pokemon/{pokedex_no:04d}_{name_ja}.json
+```
+
+例：
+
+- `data/pokemon/0001_フシギダネ.json`
+- `data/pokemon/0025_ピカチュウ.json`
+- `data/pokemon/0025_ピカチュウ(相棒).json` （フォーム違い）
+
+この命名規則により、図鑑番号順でソートされ、かつポケモン名で視認性が高くなる。
+
 ## 今後の課題
 
 - ZA や過去作ページの正規データを別途扱う必要がある場合の拡張（SV 以外の情報ソース管理）。
