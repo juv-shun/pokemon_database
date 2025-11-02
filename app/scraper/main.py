@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import argparse
 from typing import Any
 
 from app.scraper.http_client import fetch_pokemon_soup
@@ -48,6 +49,18 @@ def scrape_and_save(url: str, output_dir: str = "data/pokemon") -> None:
 
 
 if __name__ == "__main__":
-    # ボルトロス(化身)のサンプル実行
-    target_url = "https://yakkun.com/sv/zukan/n642"
-    scrape_and_save(target_url)
+    default_url = "https://yakkun.com/sv/zukan/n642"
+
+    parser = argparse.ArgumentParser(
+        description="ポケモン図鑑ページからデータを取得してJSONに保存するスクレイパー.",
+    )
+    parser.add_argument(
+        "target_url",
+        nargs="?",
+        default=default_url,
+        help="スクレイピング対象のポケモン図鑑ページURL (省略時はボルトロス).",
+    )
+
+    parsed = parser.parse_args()
+
+    scrape_and_save(parsed.target_url)
