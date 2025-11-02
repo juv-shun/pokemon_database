@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 from typing import Any
 
-from app.scraper.http_client import fetch_pokemon_soup
+from app.scraper.http_client import RedirectedToZaError, fetch_pokemon_soup
 from app.scraper.output import save_pokemon_json
 from app.scraper.pokemon_abilities import scrape_pokemon_abilities
 from app.scraper.pokemon_basic import scrape_pokemon_basic
@@ -22,7 +22,12 @@ def scrape_and_save(url: str, output_dir: str = "data/pokemon") -> None:
     """
     print(f"スクレイピング開始: {url}")
 
-    soup = fetch_pokemon_soup(url)
+    try:
+        soup = fetch_pokemon_soup(url)
+    except RedirectedToZaError as error:
+        print("ポケモンZAページへリダイレクトされたため、スクレイピングを中止しました。")
+        print(f"最終URL: {error.final_url}")
+        return
 
     # ポケモン基本情報を取得
     pokemon_data = scrape_pokemon_basic(soup)
