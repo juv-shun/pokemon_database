@@ -43,6 +43,7 @@ def scrape_pokemon_basic(url: str) -> dict[str, Any]:
     pokemon_data: dict[str, Any] = {
         "pokedex_no": None,
         "name_ja": None,
+        "name_en": None,
         "form_label": None,
         "type_primary": None,
         "type_secondary": None,
@@ -78,6 +79,8 @@ def scrape_pokemon_basic(url: str) -> dict[str, Any]:
 
             if key == "全国No.":
                 pokemon_data["pokedex_no"] = int(value)
+            elif key == "英語名":
+                pokemon_data["name_en"] = value
             elif key == "高さ":
                 # "1.5m" -> 15 (デシメートル)
                 height_match = re.search(r"([\d.]+)m", value)
