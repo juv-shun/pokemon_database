@@ -49,6 +49,7 @@ CREATE SCHEMA gen10;
 | `id`             | INTEGER     | PK              | 内部 ID                                    |
 | `pokedex_no`     | INTEGER     | NOT NULL        | 全国図鑑番号（フォーム違いは同一番号可）   |
 | `name_ja`        | VARCHAR(64) | UNIQUE NOT NULL | ポケモン名（フォーム名込み）               |
+| `name_en`        | VARCHAR(64) |                 | ポケモン英語名（フォーム名込み）           |
 | `form_label`     | VARCHAR(64) |                 | フォーム名だけを保持（例: 「(ヒスイ)」）   |
 | `type_primary`   | VARCHAR(16) | NOT NULL        | タイプ 1（チェック制約で 18 種類に限定）   |
 | `type_secondary` | VARCHAR(16) |                 | タイプ 2                                   |
