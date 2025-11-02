@@ -67,8 +67,10 @@ def scrape_pokemon_basic(soup: BeautifulSoup) -> dict[str, Any]:
             key = cells[0].get_text(strip=True)
             value = cells[1].get_text(strip=True)
 
-            if key == "全国No.":
-                pokemon_data["pokedex_no"] = int(value)
+            if key == "全国No." or key == "ぜんこくNo.":
+                digits_match = re.search(r"(\d+)", value)
+                if digits_match:
+                    pokemon_data["pokedex_no"] = int(digits_match.group(1))
             elif key == "英語名":
                 pokemon_data["name_en"] = value
             elif key == "高さ":
