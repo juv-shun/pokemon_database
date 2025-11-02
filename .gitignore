@@ -51,3 +51,9 @@ htmlcov/
 # Data files
 data/pokemon/
 data/progress/
+
+# Generated files
+output/
+
+# Supabase
+supabase/migrations/*_remote_schema.sql
