@@ -1,7 +1,14 @@
 """スクレイピングのメイン実行モジュール."""
 
+from __future__ import annotations
+
+from typing import Any
+
+from app.scraper.http_client import fetch_pokemon_soup
 from app.scraper.output import save_pokemon_json
+from app.scraper.pokemon_abilities import scrape_pokemon_abilities
 from app.scraper.pokemon_basic import scrape_pokemon_basic
+from app.scraper.pokemon_moves import scrape_pokemon_moves
 
 
 def scrape_and_save(url: str, output_dir: str = "data/pokemon") -> None:
@@ -14,17 +21,28 @@ def scrape_and_save(url: str, output_dir: str = "data/pokemon") -> None:
     """
     print(f"スクレイピング開始: {url}")
 
-    # ポケモン基本情報を取得
-    pokemon_data = scrape_pokemon_basic(url)
+    soup = fetch_pokemon_soup(url)
 
-    print("\n取得したデータ:")
+    # ポケモン基本情報を取得
+    pokemon_data = scrape_pokemon_basic(soup)
+    abilities = scrape_pokemon_abilities(soup)
+    moves = scrape_pokemon_moves(soup)
+
+    bundle: dict[str, Any] = {
+        "pokemon": pokemon_data,
+        "abilities": abilities,
+        "moves": moves,
+    }
+
+    print("\n取得したデータ概要:")
     print("-" * 80)
-    for key, value in pokemon_data.items():
-        print(f"{key}: {value}")
+    print(f"ポケモン名: {pokemon_data.get('name_ja')} (No.{pokemon_data.get('pokedex_no')})")
+    print(f"特性件数: {len(abilities)}")
+    print(f"技件数: {len(moves)}")
     print("-" * 80)
 
     # JSONファイルに保存
-    output_path = save_pokemon_json(pokemon_data, output_dir)
+    output_path = save_pokemon_json(bundle, output_dir)
 
     print(f"\nJSONファイルを保存しました: {output_path}")
 

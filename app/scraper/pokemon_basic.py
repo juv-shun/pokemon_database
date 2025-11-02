@@ -1,35 +1,25 @@
 """ポケモン基本情報のスクレイピングモジュール."""
 
+from __future__ import annotations
+
 import re
 from typing import Any
 
-import requests
 from bs4 import BeautifulSoup
 
 
-def scrape_pokemon_basic(url: str) -> dict[str, Any]:
-    """指定されたURLからポケモンの基本情報を取得する.
+def scrape_pokemon_basic(soup: BeautifulSoup) -> dict[str, Any]:
+    """ポケモン図鑑ページからポケモン基本情報を抽出する.
 
     Args:
-        url: ポケモン図鑑ページのURL
+        soup: ポケモン図鑑ページのBeautifulSoupオブジェクト
 
     Returns:
         pokemon テーブルの情報を含む辞書
 
     Raises:
-        requests.HTTPError: HTTPリクエストが失敗した場合
         ValueError: 必要なデータが取得できなかった場合
     """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/91.0.4472.124 Safari/537.36"
-    }
-
-    response = requests.get(url, headers=headers, timeout=10)
-    response.raise_for_status()
-
-    soup = BeautifulSoup(response.content, "html.parser")
 
     # 基本情報テーブル（最初のテーブル）を取得
     tables = soup.find_all("table")
