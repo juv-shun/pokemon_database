@@ -34,7 +34,7 @@ models.py
     ↓ (データ収集・重複排除)
 csv_builder.py
     ↓ (CSV生成)
-output/*.csv
+data/csv_files/*.csv
     ↓ (データ投入)
 Supabase (svスキーマ)
 ```

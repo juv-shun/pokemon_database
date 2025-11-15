@@ -32,7 +32,7 @@ def main() -> None:
     # パス設定
     project_root = Path(__file__).parent.parent.parent
     data_dir = project_root / "data" / "pokemon"
-    output_dir = project_root / "output"
+    output_dir = project_root / "data" / "csv_files"
 
     logger.info(f"JSONデータディレクトリ: {data_dir}")
     logger.info(f"CSV出力先ディレクトリ: {output_dir}")

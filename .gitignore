@@ -51,11 +51,7 @@ htmlcov/
 .ruff_cache/
 
 # Data files
-data/pokemon/
-data/progress/
-
-# Generated files
-output/
+data
 
 # Supabase
 supabase/migrations/*_remote_schema.sql

@@ -14,7 +14,7 @@
 #   - Supabase CLIがインストールされていること
 #   - ローカル: supabase startでローカル環境が起動していること
 #   - 本番: .envファイルにSupabase接続情報が設定されていること
-#   - output/配下にCSVファイルが生成されていること
+#   - data/csv_files/配下にCSVファイルが生成されていること
 #   - psqlコマンドが利用可能であること
 # ========================================
 
@@ -30,7 +30,7 @@ NC='\033[0m' # No Color
 # プロジェクトルートディレクトリ
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
-CSV_DIR="$PROJECT_ROOT/output"
+CSV_DIR="$PROJECT_ROOT/data/csv_files"
 
 # 環境変数（デフォルトはローカル）
 ENVIRONMENT="local"
