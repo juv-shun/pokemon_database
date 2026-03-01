@@ -42,6 +42,68 @@ CREATE SCHEMA gen10;
 
 > **注**: 以下のすべてのテーブルは `sv` スキーマ内に作成されます（例: `sv.pokemon`）。
 
+### ER図
+
+```mermaid
+erDiagram
+    pokemon ||--o{ pokemon_abilities : ""
+    abilities ||--o{ pokemon_abilities : ""
+    pokemon ||--o{ pokemon_moves : ""
+    moves ||--o{ pokemon_moves : ""
+
+    pokemon {
+        INTEGER id PK
+        INTEGER pokedex_no
+        VARCHAR name_ja UK
+        VARCHAR name_en
+        VARCHAR form_label
+        VARCHAR type_primary
+        VARCHAR type_secondary
+        SMALLINT height_dm
+        SMALLINT weight_hg
+        SMALLINT low_kick_power
+        BOOLEAN is_legendary
+        BOOLEAN is_mythical
+        SMALLINT base_hp
+        SMALLINT base_atk
+        SMALLINT base_def
+        SMALLINT base_spa
+        SMALLINT base_spd
+        SMALLINT base_spe
+        TEXT remarks
+    }
+
+    abilities {
+        INTEGER id PK
+        VARCHAR name_ja UK
+        TEXT effect_text
+    }
+
+    pokemon_abilities {
+        INTEGER pokemon_id PK "FK→pokemon.id"
+        INTEGER ability_id PK "FK→abilities.id"
+        BOOLEAN is_hidden
+    }
+
+    moves {
+        INTEGER id PK
+        VARCHAR name_ja UK
+        VARCHAR type_name
+        VARCHAR damage_class
+        SMALLINT power
+        SMALLINT accuracy
+        SMALLINT pp
+        SMALLINT priority
+        TEXT effect_text
+    }
+
+    pokemon_moves {
+        INTEGER pokemon_id PK "FK→pokemon.id"
+        INTEGER move_id PK "FK→moves.id"
+        VARCHAR notes
+    }
+```
+
 ### 4.1 `sv.pokemon`
 
 | カラム名         | 型          | 制約            | 説明                                       |
